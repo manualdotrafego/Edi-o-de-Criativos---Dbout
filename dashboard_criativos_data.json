@@ -1,0 +1,3981 @@
+{
+  "gestores": {
+    "Thiago Braga": [
+      {
+        "clinica": "177 - Águas Lindas de Goiás",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "CT02 - 1297310504141925",
+        "valor": "R$1500.00",
+        "meta": "R$ 3,70",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "259 - Alvorada",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT02 - 1297310504141925",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,70",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Araçatuba/SP",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$1000.00",
+        "meta": "R$ 6,70",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "009 - Arapongas",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT02 - 1297310504141925",
+        "valor": "R$1300.00",
+        "meta": "R$ 6,70",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Altamira/PR",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$250.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "195 - Brusque",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT02 - 1297310504141925",
+        "valor": "R$1000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "248 - Cachoeirinha/RS",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT02 - 1297310504141925",
+        "valor": "R$1000.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "🏆✅",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Cachoeirinha",
+            "templates": [
+              "14mar",
+              "24mar",
+              "3mar",
+              "2fev"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-11"
+          }
+        ],
+        "total_templates": 4
+      },
+      {
+        "clinica": "Canoinhas",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT02 - 1297310504141925",
+        "valor": "R$1000.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Campina Grande/PB",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT02 - 1297310504141925",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "005 - Caetité",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$1000.00",
+        "meta": "R$ 6,70",
+        "meta_batida": "🏆✅",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Caetité",
+            "templates": [
+              "14mar",
+              "24mar",
+              "3mar",
+              "2fev"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-11"
+          }
+        ],
+        "total_templates": 4
+      },
+      {
+        "clinica": "017 - Campo Bom/RS",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT02 - 1297310504141925",
+        "valor": "R$1000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "🏆✅",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Campo Bom",
+            "templates": [
+              "3mar",
+              "14teste"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-03"
+          }
+        ],
+        "total_templates": 2
+      },
+      {
+        "clinica": "21 - Cascavel Afonso Pena",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT02 - 1297310504141925",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "302 - Catalão",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT02 - 1297310504141925",
+        "valor": "R$1000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Caraguatatuba/SP Orto ODC",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$1000.00",
+        "meta": "R$ 6,70",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Caraguatatuba/SP Prótese ODC",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$1000.00",
+        "meta": "R$ 6,70",
+        "meta_batida": "Não Conta",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Cuiabá/MT",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$1500.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Engenho Novo/RJ ODC",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$300.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "223 - Gaspar - Centro",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT02 - 1297310504141925",
+        "valor": "R$1000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "095 - Gravataí/RS",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT02 - 1297310504141925",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,70",
+        "meta_batida": "🏆✅",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Gravataí",
+            "templates": [
+              "14mar",
+              "24mar",
+              "3mar",
+              "2fev"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-11"
+          }
+        ],
+        "total_templates": 4
+      },
+      {
+        "clinica": "Gurupi Implante",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$250.00",
+        "meta": "R$ 3,70",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "341 - Indaiatuba/SP",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT02 - 1297310504141925",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,70",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Itabira/MG ODC",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$250.00",
+        "meta": "R$ 6,70",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Itapajé Coife",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$1000.00",
+        "meta": "R$ 6,70",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Itapetininga",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT02 - 1297310504141925",
+        "valor": "R$2000.00",
+        "meta": "R$ 3,70",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Itaquaquecetuba Orto ODC",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,70",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Itaquaquecetuba Prótese ODC",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$1000.00",
+        "meta": "R$ 6,70",
+        "meta_batida": "Não Conta",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "128 - Itumbiara",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT02 - 1297310504141925",
+        "valor": "R$2000.00",
+        "meta": "R$ 6,70",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Joinville Aventureiro/SC",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$1200.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "🏆✅",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Joinville",
+            "templates": [
+              "3mar",
+              "14teste"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-03"
+          }
+        ],
+        "total_templates": 2
+      },
+      {
+        "clinica": "131 - Joinville America",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$1000.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "🏆✅",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Joinville",
+            "templates": [
+              "3mar",
+              "14teste"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-03"
+          }
+        ],
+        "total_templates": 2
+      },
+      {
+        "clinica": "131 - Joinville Centro",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$1000.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "🏆✅",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Joinville",
+            "templates": [
+              "3mar",
+              "14teste"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-03"
+          }
+        ],
+        "total_templates": 2
+      },
+      {
+        "clinica": "44 - Juiz de Fora/MG Shopping",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT02 - 1297310504141925",
+        "valor": "R$550.00",
+        "meta": "R$ 2,10",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Linhares",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$1000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "001 - LONDRINA/PR - Souza Naves",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$1000.00",
+        "meta": "R$ 6,70",
+        "meta_batida": "❌",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "353 - Lucas do Rio Verde",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT02 - 1297310504141925",
+        "valor": "R$2500.00",
+        "meta": "R$ 6,70",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "386 - Luís Eduardo Magalhães",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT02 - 1297310504141925",
+        "valor": "R$2000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "045 - Manaus Centro/AM 🚫Grátis",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT02 - 1297310504141925",
+        "valor": "R$1000.00",
+        "meta": "R$ 2,10",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Miguel Badra Orto ODC",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$1000.00",
+        "meta": "R$ 6,70",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Miguel Badra Prótese ODC",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$1000.00",
+        "meta": "R$ 6,70",
+        "meta_batida": "Não Conta",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "316 - Mogi das Cruzes /SP",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT02 - 1297310504141925",
+        "valor": "R$2000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Natal - Avenida Prudente",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT02 - 1297310504141925",
+        "valor": "R$1000.00",
+        "meta": "R$ 2,10",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Olimpia/SP",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$1000.00",
+        "meta": "R$ 6,70",
+        "meta_batida": "🏆✅",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Olímpia",
+            "templates": [
+              "3mar",
+              "14teste"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-01"
+          }
+        ],
+        "total_templates": 2
+      },
+      {
+        "clinica": "337 - Paracatu",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT02 - 1297310504141925",
+        "valor": "R$2000.00",
+        "meta": "R$ 6,70",
+        "meta_batida": "❌",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "056 - Parobé/RS",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT02 - 1297310504141925",
+        "valor": "R$1000.00",
+        "meta": "R$ 6,70",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "372 - Pirapora",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$2000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "🏆✅",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Pirapora",
+            "templates": [
+              "20mar",
+              "21mar",
+              "22mar",
+              "24mar",
+              "2fev",
+              "3mar",
+              "14teste"
+            ],
+            "narracao": "mes_consumidor",
+            "data": "2025-10-08"
+          }
+        ],
+        "total_templates": 7
+      },
+      {
+        "clinica": "Poços de Caldas/MG",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$1000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Ortoestética Campo Grande MS",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$500.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Campo Grande Ortoestética Implante",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$500.00",
+        "meta": "R$ 6,70",
+        "meta_batida": "Não Conta",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Recanto das Emas Brasília",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT02 - 1297310504141925",
+        "valor": "R$1000.00",
+        "meta": "R$ 6,70",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "RedeOrto Santa Quitéria/MA",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$1000.00",
+        "meta": "R$ 6,70",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "134 - Ribeirão Preto/ SP 🍔",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT02 - 1297310504141925",
+        "valor": "R$2000.00",
+        "meta": "R$ 2,10",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Rio de Janeiro Madureira",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$1500.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "314 - Rolandia - Paraná",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$1000.00",
+        "meta": "R$ 6,70",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "335 - São José dos Campos (Rua Vilaça)",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT02 - 1297310504141925",
+        "valor": "R$1500.00",
+        "meta": "R$ 2,80",
+        "meta_batida": "❌",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "078 -  São José dos Pinhais",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT02 - 1297310504141925",
+        "valor": "R$2600.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "077 - São José do Rio Preto",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT03 - São José do Rio Preto (BOLETO) - 350266333900752",
+        "valor": "R$5000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "🏆✅",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "São José do Rio Preto",
+            "templates": [
+              "3mar",
+              "14teste"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-01"
+          }
+        ],
+        "total_templates": 2
+      },
+      {
+        "clinica": "079 -  São Vicente",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$2100.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Santa Bárbara D'Oeste",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$1000.00",
+        "meta": "R$ 6,70",
+        "meta_batida": "🏆✅",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Santa Bárbara",
+            "templates": [
+              "14mar",
+              "15mar",
+              "2fev",
+              "21mar",
+              "02jan26",
+              "24mar",
+              "17mar"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-04"
+          }
+        ],
+        "total_templates": 7
+      },
+      {
+        "clinica": "Sete Lagoas",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$3000.00",
+        "meta": "R$ 6,70",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Tremembé/SP Orto ODC",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$1000.00",
+        "meta": "R$ 6,70",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Tremembé/SP Prótese ODC",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$1000.00",
+        "meta": "R$ 6,70",
+        "meta_batida": "Não Conta",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "081 - Sorocaba - Rua Eulalia Silva 1.000",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT02 - 1297310504141925",
+        "valor": "R$1000.00",
+        "meta": "R$ 2,10",
+        "meta_batida": "🏆✅",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "237 - Uberlândia -  AV: Floriano Peixoto",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT05 - 613666203841045",
+        "valor": "R$3500.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "🏆✅",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Uberlândia",
+            "templates": [
+              "14mar",
+              "24mar",
+              "3mar",
+              "2fev"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-11"
+          }
+        ],
+        "total_templates": 4
+      },
+      {
+        "clinica": "377 - Vespasiano",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT02 - 1297310504141925",
+        "valor": "R$2000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "❌",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      }
+    ],
+    "Sem Gestor": [
+      {
+        "clinica": "",
+        "status": "Not started",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Montes Claros",
+            "templates": [
+              "3mar"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-01"
+          }
+        ],
+        "total_templates": 1
+      },
+      {
+        "clinica": "",
+        "status": "Not started",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Montes Claros",
+            "templates": [
+              "3mar"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-01"
+          }
+        ],
+        "total_templates": 1
+      },
+      {
+        "clinica": "",
+        "status": "Not started",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Montes Claros",
+            "templates": [
+              "3mar"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-01"
+          }
+        ],
+        "total_templates": 1
+      },
+      {
+        "clinica": "",
+        "status": "Not started",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Montes Claros",
+            "templates": [
+              "3mar"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-01"
+          }
+        ],
+        "total_templates": 1
+      },
+      {
+        "clinica": "",
+        "status": "Not started",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Montes Claros",
+            "templates": [
+              "3mar"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-01"
+          }
+        ],
+        "total_templates": 1
+      }
+    ],
+    "Giovanni Azzi": [
+      {
+        "clinica": "Itajai 2 Dr José Bonifácio",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$2000.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Passos MG",
+        "status": "ON",
+        "consultor": "Victor Coutinho",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 5,40",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Duque de Caxias RJ",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "",
+        "valor": "R$1600.00",
+        "meta": "R$ 3,45",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Bagé RS",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Braço do Norte",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Coife Quixadá",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Montes Claros MG",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$4000.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Montes Claros",
+            "templates": [
+              "3mar"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-01"
+          }
+        ],
+        "total_templates": 1
+      },
+      {
+        "clinica": "São Caetano do Sul",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Luziania Bellavie",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Luziânia",
+            "templates": [
+              "14mar",
+              "24mar",
+              "3mar",
+              "2fev"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-09"
+          }
+        ],
+        "total_templates": 4
+      },
+      {
+        "clinica": "Maringá",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$2400.00",
+        "meta": "R$ 35,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Sorriso",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$2500.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Barbacena",
+        "status": "ON",
+        "consultor": "Victor Coutinho",
+        "ca": "",
+        "valor": "R$1600.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Barbacena",
+            "templates": [
+              "21mar",
+              "02jan26",
+              "24mar",
+              "2fev",
+              "17mar"
+            ],
+            "narracao": "vagas",
+            "data": "2026-03-24"
+          }
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "Muriaé",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$1050.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Votuporanga",
+        "status": "ON",
+        "consultor": "Victor Coutinho",
+        "ca": "",
+        "valor": "R$2000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Votuporanga",
+            "templates": [
+              "21mar",
+              "02jan26",
+              "24mar",
+              "2fev",
+              "17mar"
+            ],
+            "narracao": "vagas",
+            "data": "2026-03-24"
+          }
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "ODC VIla Santa Catarina",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 35,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Sinop",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$2500.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "112 - Limeira",
+        "status": "ON",
+        "consultor": "Victor Coutinho",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Barreiras BA",
+        "status": "ON",
+        "consultor": "Victor Coutinho",
+        "ca": "",
+        "valor": "R$2000.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Marialva",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Ourinhos",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$1500.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Itajai 1",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$2000.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Hortolândia - (1K ORTO  1K IMP)",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$2000.00",
+        "meta": "R$ 4,60",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Campo bom RS",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 6,60",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Campo Bom",
+            "templates": [
+              "3mar",
+              "14teste"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-03"
+          }
+        ],
+        "total_templates": 2
+      },
+      {
+        "clinica": "Ferraz Centro - 1K ORTO  1K PRO)",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$2000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Caucaia - 800$ Orto 400 implante",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$1200.00",
+        "meta": "R$ 3,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Odontoclinic Jundiaí 800 orto e 800 implante",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$1600.00",
+        "meta": "R$ 2,30",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Coife Salvador IAPI",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Coife Salvador Fazenda Grande",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Fazenda",
+            "templates": [
+              "21mar",
+              "02jan26",
+              "24mar",
+              "2fev",
+              "17mar"
+            ],
+            "narracao": "diferente_v2",
+            "data": "2026-03-24"
+          }
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "Afonso Claudio",
+        "status": "ON",
+        "consultor": "Giovani Santos Azzi",
+        "ca": "",
+        "valor": "R$250.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Amor e Saude - Casa Verde",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "R$250.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      }
+    ],
+    "Gustavo Motta": [
+      {
+        "clinica": "087 - Toledo ⚠ (NADA COM GRATIS)",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "CT1",
+        "valor": "R$1000.00",
+        "meta": "R$ 6,50",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Toledo",
+            "templates": [
+              "14mar",
+              "24mar",
+              "3mar",
+              "2fev"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-10"
+          }
+        ],
+        "total_templates": 4
+      },
+      {
+        "clinica": "120 - Piracicaba",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "CT01 - 5278613945567179",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "229 -  Ponta Grossa - AV Dr. Vicente Machado",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "CT03 - 388602330121239",
+        "valor": "R$2000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Ponta Grossa",
+            "templates": [
+              "15mar",
+              "14mar",
+              "16mar",
+              "17mar",
+              "18mar",
+              "19mar",
+              "20mar",
+              "21mar",
+              "22mar",
+              "24mar"
+            ],
+            "narracao": "ortodontico_v2",
+            "data": "2025-10-14"
+          }
+        ],
+        "total_templates": 10
+      },
+      {
+        "clinica": "268 - Contagem",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "CT2 - 140805155678128",
+        "valor": "R$1000.00",
+        "meta": "R$ 2,10",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "162 - Guaramirim",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "CT01",
+        "valor": "R$1000.00",
+        "meta": "R$ 6,67",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "171 - Monte Carmelo",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "CT1 - 140805155678128",
+        "valor": "R$1000.00",
+        "meta": "R$ 6,67",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "253 - Luziânia",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "CT1 - 140805155678128",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,70",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Luziânia",
+            "templates": [
+              "14mar",
+              "24mar",
+              "3mar",
+              "2fev"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-09"
+          }
+        ],
+        "total_templates": 4
+      },
+      {
+        "clinica": "215 - Gama",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "CT1 - 140805155678128",
+        "valor": "R$1500.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "312 - Bocaiúva",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "CT1 - 140805155678128",
+        "valor": "R$1000.00",
+        "meta": "R$ 6,00",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Bocaiuva",
+            "templates": [
+              "14mar",
+              "24mar",
+              "3mar",
+              "2fev"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-09"
+          }
+        ],
+        "total_templates": 4
+      },
+      {
+        "clinica": "434 - Suzano - SP",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "CT1 - 140805155678128",
+        "valor": "R$1000.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Suzano",
+            "templates": [
+              "14mar",
+              "15mar",
+              "16mar",
+              "17mar",
+              "18mar",
+              "19mar",
+              "20mar",
+              "21mar",
+              "22mar",
+              "24mar",
+              "2fev",
+              "3mar"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-06"
+          }
+        ],
+        "total_templates": 12
+      },
+      {
+        "clinica": "444 -  Boituva",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "CT01",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,70",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "357 - Paranaguá/PR",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "CT03 - 388602330121239",
+        "valor": "R$1000.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "194 - Pinhais",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "Gabriel Nadolny - Pinhais/Piraquara",
+        "valor": "R$2000.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "217 - Viçosa",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "CT1 - 140805155678128",
+        "valor": "R$1500.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Viçosa",
+            "templates": [
+              "14mar",
+              "15mar",
+              "2fev"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-04"
+          }
+        ],
+        "total_templates": 3
+      },
+      {
+        "clinica": "Teixeira de Freitas",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "CT1 - 140805155678128",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,70",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "256 - Campo Mourão",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "CT1 - 140805155678128",
+        "valor": "R$1000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "240 - Serra",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "CT01 - 5278613945567179",
+        "valor": "R$1000.00",
+        "meta": "R$ 2,10",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "221- Dourados",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "CT01 - 5278613945567179",
+        "valor": "R$1500.00",
+        "meta": "R$ 3,70",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Salto SP",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "CT1",
+        "valor": "R$1000.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Salto",
+            "templates": [
+              "14mar",
+              "24mar",
+              "3mar",
+              "2fev"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-09"
+          }
+        ],
+        "total_templates": 4
+      },
+      {
+        "clinica": "044 - Juiz de Fora Mister Shopping",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "CT01 - 5278613945567179",
+        "valor": "R$2000.00",
+        "meta": "R$ 2,10",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "262 - Marau/RS",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "CT01 - 5278613945567179",
+        "valor": "R$2000.00",
+        "meta": "R$ 6,67",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "015 - Fazz Chapecó",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "CT01 - 5278613945567179",
+        "valor": "R$1000.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "095 - Divinópolis",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "CT01 - 5278613945567179",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "222 - Cambé  CRO M",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "CT03 - 388602330121239",
+        "valor": "R$1000.00",
+        "meta": "R$ 6,70",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Cambé",
+            "templates": [
+              "21mar",
+              "02jan26",
+              "24mar",
+              "2fev",
+              "17mar"
+            ],
+            "narracao": "diferente",
+            "data": "2025-10-12"
+          }
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "897 - Ribeirão Preto",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,20",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "019 - Campo Largo",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 6,70",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "062 - Bauru",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 4,40",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "125 - Belo Horizonte - Av. Amazonas",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "022 - Campo Grande",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,40",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "056 - São Bernardo dos Campos",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,40",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "São Bernardo",
+            "templates": [
+              "21mar",
+              "02jan26",
+              "24mar",
+              "2fev",
+              "17mar"
+            ],
+            "narracao": "vagas",
+            "data": "2026-03-24"
+          }
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "057 - Passo Fundo",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "",
+        "valor": "R$3000.00",
+        "meta": "R$ 3,70",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "225 - Conselheiro Lafaiete",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Conselheiro Lafaiete",
+            "templates": [
+              "14mar",
+              "24mar",
+              "3mar",
+              "2fev"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-09"
+          }
+        ],
+        "total_templates": 4
+      },
+      {
+        "clinica": "843 - Esteio",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 6,60",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "943 - Sapiranga",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 5,60",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Sapiranga",
+            "templates": [
+              "14mar",
+              "24mar",
+              "3mar",
+              "2fev"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-10"
+          }
+        ],
+        "total_templates": 4
+      },
+      {
+        "clinica": "765- Vila Velha",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "",
+        "valor": "R$1200.00",
+        "meta": "R$ 3,70",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "690 - Belo Horizonte - Rua Curitiba",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 2,80",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "879 - Senador Canedo",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 4,60",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "653 - São Bento do Sul",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 5,60",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "863 - Londrina",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "326 - Cocaia",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "543 - Conceição do Araguaia",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 6,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "459 - ILHABELA - ODC",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "",
+        "valor": "R$2000.00",
+        "meta": "R$ 6,70",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "980 - Ferraz Gianetti - ODC",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "",
+        "valor": "R$2000.00",
+        "meta": "R$ 3,70",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "634 - Carangola",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 6,70",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "061 - Campina Grande do Sul",
+        "status": "ON",
+        "consultor": "dboutmidiaslara",
+        "ca": "",
+        "valor": "R$2000.00",
+        "meta": "R$ 6,70",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      }
+    ],
+    "Igor Teixeira": [
+      {
+        "clinica": "-Porto Velho - Rondonia",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "CT03-FHILIPE/1181454115989018",
+        "valor": "R$1000.00",
+        "meta": "R$ 2,10",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "036 - Goiania (setor oeste)",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "AQC - 00 IGOR - 391009870578696",
+        "valor": "R$1000.00",
+        "meta": "R$ 1,67",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "046 - MARILIA",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "CT03-FHILIPE/1181454115989018",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,70",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "059 - Pato de Minas/MG  2x",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "AQC - 00 IGOR - 391009870578696",
+        "valor": "R$1000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "099 - Tatuapé",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "CT03-FHILIPE/1181454115989018",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,80",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Tatuapé",
+            "templates": [
+              "14mar",
+              "15mar",
+              "16mar",
+              "17mar",
+              "18mar",
+              "19mar",
+              "20mar",
+              "21mar",
+              "22mar",
+              "24mar",
+              "2fev"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-05"
+          }
+        ],
+        "total_templates": 11
+      },
+      {
+        "clinica": "148 - ARAGUARI/MG",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "CT03-FHILIPE/1181454115989018",
+        "valor": "R$1000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "151 - Cuiaba - Centro",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "CT03-Guaramirim / 5648874101844136",
+        "valor": "R$1000.00",
+        "meta": "R$ 2,10",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "158 - NAVEGANTES/SC\\",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "AQC - 00 IGOR - 391009870578696",
+        "valor": "R$1550.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "181 - BRUMADO",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "CT03-Guaramirim / 5648874101844136",
+        "valor": "R$1000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "234 - Sao Paulo - Lapa",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "AQC - 00 IGOR - 391009870578696",
+        "valor": "R$2000.00",
+        "meta": "R$ 3,80",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Lapa",
+            "templates": [
+              "7mar",
+              "3mar",
+              "14teste",
+              "2fev",
+              "14mar",
+              "15mar",
+              "16mar",
+              "17mar",
+              "18mar",
+              "19mar",
+              "20mar",
+              "21mar",
+              "22mar",
+              "24mar"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-03"
+          }
+        ],
+        "total_templates": 14
+      },
+      {
+        "clinica": "303 Tupã-Sp",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "AQC - 00 IGOR - 391009870578696",
+        "valor": "R$1000.00",
+        "meta": "R$ 6,70",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "305 - PLANALTINA",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "CT03-Guaramirim / 5648874101844136",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "320 - Tucuruvi",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "CT03-Guaramirim / 5648874101844136",
+        "valor": "R$3000.00",
+        "meta": "R$ 3,80",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Tucuruvi",
+            "templates": [
+              "3mar",
+              "14mar",
+              "15mar",
+              "16mar",
+              "17mar",
+              "18mar",
+              "19mar",
+              "20mar",
+              "21mar",
+              "22mar",
+              "24mar"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-02"
+          }
+        ],
+        "total_templates": 11
+      },
+      {
+        "clinica": "324 - Sarandi",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "AQC - 00 IGOR - 391009870578696",
+        "valor": "R$1600.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "325 - Paiçandu",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "CT03-FHILIPE/1181454115989018",
+        "valor": "R$1500.00",
+        "meta": "R$ 6,67",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "365 - Aparecida de Goiânia",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "CT02 - UNAI- 449000287288780",
+        "valor": "R$1500.00",
+        "meta": "R$ 2,10",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Aparecida de Goiânia",
+            "templates": [
+              "3mar",
+              "14mar",
+              "15mar",
+              "16mar",
+              "17mar",
+              "18mar",
+              "19mar",
+              "20mar",
+              "21mar",
+              "22mar",
+              "24mar"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-02"
+          }
+        ],
+        "total_templates": 11
+      },
+      {
+        "clinica": "366 - Colombo PG",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "CT03-Guaramirim / 5648874101844136",
+        "valor": "R$2500.00",
+        "meta": "R$ 3,70",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Colombo",
+            "templates": [
+              "3mar",
+              "14mar",
+              "15mar",
+              "16mar",
+              "17mar",
+              "18mar",
+              "19mar",
+              "20mar",
+              "21mar",
+              "22mar",
+              "24mar"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-02"
+          }
+        ],
+        "total_templates": 11
+      },
+      {
+        "clinica": "375 - Paranoa #",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "CT02-Unai",
+        "valor": "R$2000.00",
+        "meta": "R$ 6,67",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "414 - Florianópolis Ingleses (RODA JUNTO C A 209)",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "BALNÉARIO 2-WHATS COM PROBLEMA",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT03-Guaramirim / 5648874101844136",
+        "valor": "R$1000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "BANGU -RJ",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "CT03-Guaramirim / 5648874101844136",
+        "valor": "R$1000.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "CAMPO GRANDE - RJ",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "CT03-Guaramirim / 5648874101844136",
+        "valor": "R$1600.00",
+        "meta": "R$ 3,80",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "COUTRIM ADVOGADOS",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "CT03-FHILIPE/1181454115989018",
+        "valor": "R$2000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "CURITIBA AMEY",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "CURITIBA-FLORIANO XV DE NOVEMBRO",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "AQC - 00 IGOR - 391009870578696",
+        "valor": "R$6000.00",
+        "meta": "R$ 3,80",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "DEMERVAL LOBÃO",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "",
+        "valor": "R$800.00",
+        "meta": "R$ 6,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "DR SORRISO",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "CT02 - UNAI- 449000287288780",
+        "valor": "R$500.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "DR SORRISO  PROTESE",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "CT02 - UNAI- 449000287288780",
+        "valor": "R$500.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "ERECHIM",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "CT03-Guaramirim / 5648874101844136",
+        "valor": "R$1150.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "FLORIPA CENTRO RODA JUNTO COM INLGLESES",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Floripa Deodoro",
+        "status": "ON",
+        "consultor": "kaue alves",
+        "ca": "CT03-FHILIPE/1181454115989018",
+        "valor": "R$500.00",
+        "meta": "R$ 3,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "LOUVEIRA - NÃO ABRE O WHATS",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "CT03-Guaramirim / 5648874101844136",
+        "valor": "R$1000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "MADUREIRA",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "MONTES CLAROS -",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Montes Claros",
+            "templates": [
+              "3mar"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-01"
+          }
+        ],
+        "total_templates": 1
+      },
+      {
+        "clinica": "MONTES CLAROS - PROTESE",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Montes Claros",
+            "templates": [
+              "3mar"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-01"
+          }
+        ],
+        "total_templates": 1
+      },
+      {
+        "clinica": "NOVA IGUAÇU",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "CT02 - UNAI- 449000287288780",
+        "valor": "R$1600.00",
+        "meta": "R$ 3,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "ODC - SANTO ANDRÉ",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "",
+        "valor": "R$500.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Santo André",
+            "templates": [
+              "01jan26",
+              "02jan26",
+              "03jan26",
+              "04jan26",
+              "21mar",
+              "02jan26",
+              "24mar",
+              "2fev",
+              "17mar"
+            ],
+            "narracao": "diferente",
+            "data": "2025-10-13"
+          }
+        ],
+        "total_templates": 9
+      },
+      {
+        "clinica": "ODC - SÃO SEBASTIÃO",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "",
+        "valor": "R$2000.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "ODC - SUZANO - NÃO ABRE O WHATSAPP",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "",
+        "valor": "R$2000.00",
+        "meta": "R$ 3,00",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Suzano",
+            "templates": [
+              "14mar",
+              "15mar",
+              "16mar",
+              "17mar",
+              "18mar",
+              "19mar",
+              "20mar",
+              "21mar",
+              "22mar",
+              "24mar",
+              "2fev",
+              "3mar"
+            ],
+            "narracao": "ortodontico",
+            "data": "2025-10-06"
+          }
+        ],
+        "total_templates": 12
+      },
+      {
+        "clinica": "ODONTO COMPANY - CHAPECÓ",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "CT03-Guaramirim / 5648874101844136",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "ODONTOCOMPANY - SANTOS",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "CT02 - UNAI- 449000287288780",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "ODTCLINIC CAJAMAR",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "ORTHOPRIDE - INTERLAGOS",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "CT03-Guaramirim / 5648874101844136",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,80",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "ORTPRIDE - GOIÂNIA",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "CT03-FHILIPE/1181454115989018",
+        "valor": "R$1000.00",
+        "meta": "R$ 2,50",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "PRESIDENTE PRUDENTE (S\\GRÁTIS) NÃO PODE RODAR NADA DIFERENTE",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "CT03-FHILIPE/1181454115989018",
+        "valor": "R$1000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "SANTARÉM",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "",
+        "valor": "R$2000.00",
+        "meta": "R$ 3,80",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "SÃO ROQUE",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 5,70",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "SÃO SEBASTIÃO",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "CT03-Guaramirim / 5648874101844136",
+        "valor": "R$2000.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "SERRA - ES",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "SOROCABA RUA DA PENHA",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "TAUBATÉ",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Tramandai",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "AQC - 00 IGOR - 391009870578696",
+        "valor": "R$1000.00",
+        "meta": "R$ 6,67",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "TUBARÃO",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "CT03-FHILIPE/1181454115989018",
+        "valor": "R$1000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "UBÁ",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "CT02 - UNAI- 449000287288780",
+        "valor": "R$1000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Vargem grande",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "",
+        "valor": "R$800.00",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      }
+    ],
+    "Gustavo Bueno": [
+      {
+        "clinica": "208 -  Araraquara",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "⚫CT 01",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,70",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "235 -Botucatu",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "🟤CT 01 - Operações Sorriso",
+        "valor": "R$1500.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "331 - Caldas Novas",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "⚪CT 03 - Operação Sorriso",
+        "valor": "R$2000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "296 - Carazinho",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "⚫CT 01",
+        "valor": "R$2000.00",
+        "meta": "R$ 6,67",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "233 - Cascavel/Rua Sete de Setembro",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "🟤CT 01 - Operações Sorriso",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "028 - Criciúma",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "🟤CT 01 - Operações Sorriso",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,70",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "402 - Cruz Alta",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "⚪CT 03 - Operação Sorriso",
+        "valor": "R$1500.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Cuiabá - Centro Norte",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "",
+        "meta": "R$ 2,10",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "033 - Franca",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "C.A - 02 CÉSAR",
+        "valor": "R$2000.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "037 - Guanambi",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "⚫CT 01",
+        "valor": "R$1000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "153 - Içara",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "⚫CT 01",
+        "valor": "R$1000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "299 - Ipatinga",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "⚪CT 03 - Operação Sorriso",
+        "valor": "R$1500.00",
+        "meta": "R$ 3,70",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "260 - Jaú",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "⚫CT 01",
+        "valor": "R$1500.00",
+        "meta": "R$ 3,70",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "292 - João Pessoa",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "⚫CT 01",
+        "valor": "R$2000.00",
+        "meta": "R$ 2,10",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "132 - Jundiaí/SP",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "C.A - 02 CÉSAR",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "360 - Matão",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "🟢C.A - 01 CÉSAR",
+        "valor": "R$1000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "145 - Manaus (Francisco Queiroz)",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "🟨CT 02 - Operação Sorriso",
+        "valor": "R$1000.00",
+        "meta": "R$ 1,67",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "379 - Montenegro/RS",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "🟣CT01",
+        "valor": "R$1000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "167 - Natal",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "CT07 - (NATAL CREDIT)",
+        "valor": "R$1500.00",
+        "meta": "R$ 1,67",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "398 - Nova Mutum",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "⚫CT 01",
+        "valor": "R$2500.00",
+        "meta": "R$ 6,67",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "055 - Paranavaí/PR",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "⚫CT 01",
+        "valor": "R$1000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Santana - NOVA",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$1500.00",
+        "meta": "R$ 3,80",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "157 - São Carlos",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "🟨CT 02 - Operação Sorriso",
+        "valor": "R$2000.00",
+        "meta": "R$ 3,70",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "332 - São Jose dos Campos   (Praça Conego) [CONSIDERADA]",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "⚫CT 01",
+        "valor": "R$4000.00",
+        "meta": "R$ 2,80",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "422 - Trindade",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "⚫CT 01",
+        "valor": "R$1000.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "361 - Uberaba",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "🔴BM 03 - UBERABA",
+        "valor": "R$1500.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "168 - Vitória da Conquista",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "🟣CT01",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Petrolina",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$2000.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Biritiba Mirim - (Odonto Company)",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Jacareí - (Odonto Company)",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Juazeiro",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "349 - Recife (Rua do Hospício)",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "🟨CT 02 - Operação Sorriso",
+        "valor": "R$1700.00",
+        "meta": "R$ 1,67",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "216 - Indaial",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "C.A - 02 CÉSAR",
+        "valor": "R$1000.00",
+        "meta": "R$ 6,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Pomerode/SC",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "C.A - 02 CÉSAR",
+        "valor": "R$850.00",
+        "meta": "R$ 6,70",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Palmas   -  NOVA",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Teresina - Coife",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$800.00",
+        "meta": "R$ 2,60",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Patrocinio",
+        "status": "Not started",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$2000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      }
+    ]
+  },
+  "total_clinicas": 235,
+  "total_com_video": 43,
+  "ultima_atualizacao": "24/03/2026 19:24",
+  "videos_log": [
+    {
+      "cidade": "Montes Claros",
+      "templates": [
+        "3mar"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-01"
+    },
+    {
+      "cidade": "São José do Rio Preto",
+      "templates": [
+        "3mar",
+        "14teste"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-01"
+    },
+    {
+      "cidade": "Olímpia",
+      "templates": [
+        "3mar",
+        "14teste"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-01"
+    },
+    {
+      "cidade": "Fazenda Rio Grande",
+      "templates": [
+        "3mar",
+        "14mar",
+        "15mar",
+        "16mar",
+        "17mar",
+        "18mar",
+        "19mar",
+        "20mar",
+        "21mar",
+        "22mar",
+        "24mar"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-02"
+    },
+    {
+      "cidade": "Colombo",
+      "templates": [
+        "3mar",
+        "14mar",
+        "15mar",
+        "16mar",
+        "17mar",
+        "18mar",
+        "19mar",
+        "20mar",
+        "21mar",
+        "22mar",
+        "24mar"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-02"
+    },
+    {
+      "cidade": "Aparecida de Goiânia",
+      "templates": [
+        "3mar",
+        "14mar",
+        "15mar",
+        "16mar",
+        "17mar",
+        "18mar",
+        "19mar",
+        "20mar",
+        "21mar",
+        "22mar",
+        "24mar"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-02"
+    },
+    {
+      "cidade": "Tucuruvi",
+      "templates": [
+        "3mar",
+        "14mar",
+        "15mar",
+        "16mar",
+        "17mar",
+        "18mar",
+        "19mar",
+        "20mar",
+        "21mar",
+        "22mar",
+        "24mar"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-02"
+    },
+    {
+      "cidade": "Lapa",
+      "templates": [
+        "7mar",
+        "3mar",
+        "14teste",
+        "2fev",
+        "14mar",
+        "15mar",
+        "16mar",
+        "17mar",
+        "18mar",
+        "19mar",
+        "20mar",
+        "21mar",
+        "22mar",
+        "24mar"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-03"
+    },
+    {
+      "cidade": "Joinville",
+      "templates": [
+        "3mar",
+        "14teste"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-03"
+    },
+    {
+      "cidade": "Chapadinha",
+      "templates": [
+        "3mar",
+        "14teste"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-03"
+    },
+    {
+      "cidade": "Campo Bom",
+      "templates": [
+        "3mar",
+        "14teste"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-03"
+    },
+    {
+      "cidade": "Viçosa",
+      "templates": [
+        "14mar",
+        "15mar",
+        "2fev"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-04"
+    },
+    {
+      "cidade": "Santa Bárbara",
+      "templates": [
+        "14mar",
+        "15mar",
+        "2fev",
+        "21mar",
+        "02jan26",
+        "24mar",
+        "17mar"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-04"
+    },
+    {
+      "cidade": "Tatuapé",
+      "templates": [
+        "14mar",
+        "15mar",
+        "16mar",
+        "17mar",
+        "18mar",
+        "19mar",
+        "20mar",
+        "21mar",
+        "22mar",
+        "24mar",
+        "2fev"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-05"
+    },
+    {
+      "cidade": "São Mateus",
+      "templates": [
+        "14mar",
+        "15mar",
+        "16mar",
+        "17mar",
+        "18mar",
+        "19mar",
+        "20mar",
+        "21mar",
+        "22mar",
+        "24mar",
+        "2fev"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-05"
+    },
+    {
+      "cidade": "Volta Redonda",
+      "templates": [
+        "14mar",
+        "15mar",
+        "16mar",
+        "17mar",
+        "18mar",
+        "19mar",
+        "20mar",
+        "21mar",
+        "22mar",
+        "24mar",
+        "2fev"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-05"
+    },
+    {
+      "cidade": "Suzano",
+      "templates": [
+        "14mar",
+        "15mar",
+        "16mar",
+        "17mar",
+        "18mar",
+        "19mar",
+        "20mar",
+        "21mar",
+        "22mar",
+        "24mar",
+        "2fev",
+        "3mar"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-06"
+    },
+    {
+      "cidade": "São Miguel Paulista",
+      "templates": [
+        "14mar",
+        "15mar",
+        "16mar",
+        "17mar",
+        "18mar",
+        "19mar",
+        "20mar",
+        "21mar",
+        "22mar",
+        "24mar",
+        "2fev",
+        "3mar"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-06"
+    },
+    {
+      "cidade": "Mauá",
+      "templates": [
+        "20mar",
+        "21mar",
+        "22mar",
+        "24mar",
+        "2fev"
+      ],
+      "narracao": "mes_consumidor",
+      "data": "2025-10-07"
+    },
+    {
+      "cidade": "Pirapora",
+      "templates": [
+        "20mar",
+        "21mar",
+        "22mar",
+        "24mar",
+        "2fev",
+        "3mar",
+        "14teste"
+      ],
+      "narracao": "mes_consumidor",
+      "data": "2025-10-08"
+    },
+    {
+      "cidade": "Luziânia",
+      "templates": [
+        "14mar",
+        "24mar",
+        "3mar",
+        "2fev"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-09"
+    },
+    {
+      "cidade": "Bocaiuva",
+      "templates": [
+        "14mar",
+        "24mar",
+        "3mar",
+        "2fev"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-09"
+    },
+    {
+      "cidade": "Santo Amaro",
+      "templates": [
+        "14mar",
+        "24mar",
+        "3mar",
+        "2fev"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-09"
+    },
+    {
+      "cidade": "Conselheiro Lafaiete",
+      "templates": [
+        "14mar",
+        "24mar",
+        "3mar",
+        "2fev"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-09"
+    },
+    {
+      "cidade": "Salto",
+      "templates": [
+        "14mar",
+        "24mar",
+        "3mar",
+        "2fev"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-09"
+    },
+    {
+      "cidade": "Unaí",
+      "templates": [
+        "14mar",
+        "24mar",
+        "3mar",
+        "2fev"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-09"
+    },
+    {
+      "cidade": "Toledo",
+      "templates": [
+        "14mar",
+        "24mar",
+        "3mar",
+        "2fev"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-10"
+    },
+    {
+      "cidade": "Sapiranga",
+      "templates": [
+        "14mar",
+        "24mar",
+        "3mar",
+        "2fev"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-10"
+    },
+    {
+      "cidade": "São João do Ivaí",
+      "templates": [
+        "14mar",
+        "24mar",
+        "3mar",
+        "2fev"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-11"
+    },
+    {
+      "cidade": "Gravataí",
+      "templates": [
+        "14mar",
+        "24mar",
+        "3mar",
+        "2fev"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-11"
+    },
+    {
+      "cidade": "Cachoeirinha",
+      "templates": [
+        "14mar",
+        "24mar",
+        "3mar",
+        "2fev"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-11"
+    },
+    {
+      "cidade": "Praia Grande",
+      "templates": [
+        "14mar",
+        "24mar",
+        "3mar",
+        "2fev",
+        "01jan26",
+        "02jan26",
+        "03jan26",
+        "04jan26"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-11"
+    },
+    {
+      "cidade": "Uberlândia",
+      "templates": [
+        "14mar",
+        "24mar",
+        "3mar",
+        "2fev"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-11"
+    },
+    {
+      "cidade": "Caetité",
+      "templates": [
+        "14mar",
+        "24mar",
+        "3mar",
+        "2fev"
+      ],
+      "narracao": "ortodontico",
+      "data": "2025-10-11"
+    },
+    {
+      "cidade": "Cambé",
+      "templates": [
+        "21mar",
+        "02jan26",
+        "24mar",
+        "2fev",
+        "17mar"
+      ],
+      "narracao": "diferente",
+      "data": "2025-10-12"
+    },
+    {
+      "cidade": "Santo André",
+      "templates": [
+        "01jan26",
+        "02jan26",
+        "03jan26",
+        "04jan26",
+        "21mar",
+        "02jan26",
+        "24mar",
+        "2fev",
+        "17mar"
+      ],
+      "narracao": "diferente",
+      "data": "2025-10-13"
+    },
+    {
+      "cidade": "Ponta Grossa",
+      "templates": [
+        "15mar",
+        "14mar",
+        "16mar",
+        "17mar",
+        "18mar",
+        "19mar",
+        "20mar",
+        "21mar",
+        "22mar",
+        "24mar"
+      ],
+      "narracao": "ortodontico_v2",
+      "data": "2025-10-14"
+    },
+    {
+      "cidade": "Votuporanga",
+      "templates": [
+        "21mar",
+        "02jan26",
+        "24mar",
+        "2fev",
+        "17mar"
+      ],
+      "narracao": "vagas",
+      "data": "2026-03-24"
+    },
+    {
+      "cidade": "São Bernardo",
+      "templates": [
+        "21mar",
+        "02jan26",
+        "24mar",
+        "2fev",
+        "17mar"
+      ],
+      "narracao": "vagas",
+      "data": "2026-03-24"
+    },
+    {
+      "cidade": "Osasco",
+      "templates": [
+        "21mar",
+        "02jan26",
+        "24mar",
+        "2fev",
+        "17mar"
+      ],
+      "narracao": "vagas",
+      "data": "2026-03-24"
+    },
+    {
+      "cidade": "Barbacena",
+      "templates": [
+        "21mar",
+        "02jan26",
+        "24mar",
+        "2fev",
+        "17mar"
+      ],
+      "narracao": "vagas",
+      "data": "2026-03-24"
+    },
+    {
+      "cidade": "Dois Irmãos",
+      "templates": [
+        "21mar",
+        "02jan26",
+        "24mar",
+        "2fev",
+        "17mar"
+      ],
+      "narracao": "diferente_v2",
+      "data": "2026-03-24"
+    },
+    {
+      "cidade": "Queimadas",
+      "templates": [
+        "21mar",
+        "02jan26",
+        "24mar",
+        "2fev",
+        "17mar"
+      ],
+      "narracao": "diferente_v2",
+      "data": "2026-03-24"
+    },
+    {
+      "cidade": "Fazenda",
+      "templates": [
+        "21mar",
+        "02jan26",
+        "24mar",
+        "2fev",
+        "17mar"
+      ],
+      "narracao": "diferente_v2",
+      "data": "2026-03-24"
+    },
+    {
+      "cidade": "Januária",
+      "templates": [
+        "21mar",
+        "02jan26",
+        "24mar",
+        "2fev",
+        "17mar"
+      ],
+      "narracao": "diferente_v2",
+      "data": "2026-03-24"
+    }
+  ]
+}
