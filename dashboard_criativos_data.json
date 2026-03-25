@@ -84,18 +84,17 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Cachoeirinha",
+            "cidade": "248 - Cachoeirinha/RS",
             "templates": [
               "14mar",
+              "14teste",
               "24mar",
-              "3mar",
-              "2fev"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-11"
+              "2fev",
+              "3mar"
+            ]
           }
         ],
-        "total_templates": 4
+        "total_templates": 5
       },
       {
         "clinica": "Canoinhas",
@@ -129,21 +128,9 @@
         "valor": "R$1000.00",
         "meta": "R$ 6,70",
         "meta_batida": "🏆✅",
-        "tem_video": true,
-        "videos": [
-          {
-            "cidade": "Caetité",
-            "templates": [
-              "14mar",
-              "24mar",
-              "3mar",
-              "2fev"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-11"
-          }
-        ],
-        "total_templates": 4
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
       },
       {
         "clinica": "017 - Campo Bom/RS",
@@ -156,16 +143,17 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Campo Bom",
+            "cidade": "017 - Campo Bom/RS",
             "templates": [
-              "3mar",
-              "14teste"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-03"
+              "02jan26",
+              "17mar",
+              "21mar",
+              "24mar",
+              "2fev"
+            ]
           }
         ],
-        "total_templates": 2
+        "total_templates": 5
       },
       {
         "clinica": "21 - Cascavel Afonso Pena",
@@ -262,18 +250,17 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Gravataí",
+            "cidade": "095 - Gravataí/RS",
             "templates": [
               "14mar",
+              "14teste",
               "24mar",
-              "3mar",
-              "2fev"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-11"
+              "2fev",
+              "3mar"
+            ]
           }
         ],
-        "total_templates": 4
+        "total_templates": 5
       },
       {
         "clinica": "Gurupi Implante",
@@ -382,13 +369,11 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Joinville",
+            "cidade": "Joinville Aventureiro/SC",
             "templates": [
-              "3mar",
-              "14teste"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-03"
+              "14teste",
+              "3mar"
+            ]
           }
         ],
         "total_templates": 2
@@ -404,13 +389,11 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Joinville",
+            "cidade": "131 - Joinville America",
             "templates": [
-              "3mar",
-              "14teste"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-03"
+              "14teste",
+              "3mar"
+            ]
           }
         ],
         "total_templates": 2
@@ -426,13 +409,11 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Joinville",
+            "cidade": "131 - Joinville Centro",
             "templates": [
-              "3mar",
-              "14teste"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-03"
+              "14teste",
+              "3mar"
+            ]
           }
         ],
         "total_templates": 2
@@ -568,16 +549,17 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Olímpia",
+            "cidade": "Olimpia/SP",
             "templates": [
-              "3mar",
-              "14teste"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-01"
+              "02jan26",
+              "17mar",
+              "21mar",
+              "24mar",
+              "2fev"
+            ]
           }
         ],
-        "total_templates": 2
+        "total_templates": 5
       },
       {
         "clinica": "337 - Paracatu",
@@ -614,21 +596,23 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Pirapora",
+            "cidade": "372 - Pirapora",
             "templates": [
-              "20mar",
+              "01jan26",
+              "02jan26",
+              "03jan26",
+              "04jan26",
+              "14mar",
+              "15mar",
+              "17mar",
               "21mar",
-              "22mar",
               "24mar",
               "2fev",
-              "3mar",
-              "14teste"
-            ],
-            "narracao": "mes_consumidor",
-            "data": "2025-10-08"
+              "3mar"
+            ]
           }
         ],
-        "total_templates": 7
+        "total_templates": 11
       },
       {
         "clinica": "Poços de Caldas/MG",
@@ -674,9 +658,20 @@
         "valor": "R$1000.00",
         "meta": "R$ 6,70",
         "meta_batida": "🏆✅",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Recanto das Emas Brasília",
+            "templates": [
+              "02jan26",
+              "17mar",
+              "21mar",
+              "24mar",
+              "2fev"
+            ]
+          }
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "RedeOrto Santa Quitéria/MA",
@@ -734,9 +729,20 @@
         "valor": "R$1500.00",
         "meta": "R$ 2,80",
         "meta_batida": "❌",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "335 - São José dos Campos (Rua Vilaça)",
+            "templates": [
+              "02jan26",
+              "17mar",
+              "21mar",
+              "24mar",
+              "2fev"
+            ]
+          }
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "078 -  São José dos Pinhais",
@@ -761,16 +767,17 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "São José do Rio Preto",
+            "cidade": "077 - São José do Rio Preto",
             "templates": [
-              "3mar",
-              "14teste"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-01"
+              "02jan26",
+              "17mar",
+              "21mar",
+              "24mar",
+              "2fev"
+            ]
           }
         ],
-        "total_templates": 2
+        "total_templates": 5
       },
       {
         "clinica": "079 -  São Vicente",
@@ -795,21 +802,17 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Santa Bárbara",
+            "cidade": "Santa Bárbara D'Oeste",
             "templates": [
-              "14mar",
-              "15mar",
-              "2fev",
-              "21mar",
               "02jan26",
+              "17mar",
+              "21mar",
               "24mar",
-              "17mar"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-04"
+              "2fev"
+            ]
           }
         ],
-        "total_templates": 7
+        "total_templates": 5
       },
       {
         "clinica": "Sete Lagoas",
@@ -855,9 +858,20 @@
         "valor": "R$1000.00",
         "meta": "R$ 2,10",
         "meta_batida": "🏆✅",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "081 - Sorocaba - Rua Eulalia Silva 1.000",
+            "templates": [
+              "02jan26",
+              "17mar",
+              "21mar",
+              "24mar",
+              "2fev"
+            ]
+          }
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "237 - Uberlândia -  AV: Floriano Peixoto",
@@ -870,18 +884,17 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Uberlândia",
+            "cidade": "237 - Uberlândia -  AV: Floriano Peixoto",
             "templates": [
-              "14mar",
+              "02jan26",
+              "17mar",
+              "21mar",
               "24mar",
-              "3mar",
               "2fev"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-11"
+            ]
           }
         ],
-        "total_templates": 4
+        "total_templates": 5
       },
       {
         "clinica": "377 - Vespasiano",
@@ -908,15 +921,23 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Montes Claros",
+            "cidade": "",
             "templates": [
+              "01jan26",
+              "02jan26",
+              "03jan26",
+              "04jan26",
+              "14mar",
+              "15mar",
+              "17mar",
+              "21mar",
+              "24mar",
+              "2fev",
               "3mar"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-01"
+            ]
           }
         ],
-        "total_templates": 1
+        "total_templates": 11
       },
       {
         "clinica": "",
@@ -929,15 +950,23 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Montes Claros",
+            "cidade": "",
             "templates": [
+              "01jan26",
+              "02jan26",
+              "03jan26",
+              "04jan26",
+              "14mar",
+              "15mar",
+              "17mar",
+              "21mar",
+              "24mar",
+              "2fev",
               "3mar"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-01"
+            ]
           }
         ],
-        "total_templates": 1
+        "total_templates": 11
       },
       {
         "clinica": "",
@@ -950,15 +979,23 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Montes Claros",
+            "cidade": "",
             "templates": [
+              "01jan26",
+              "02jan26",
+              "03jan26",
+              "04jan26",
+              "14mar",
+              "15mar",
+              "17mar",
+              "21mar",
+              "24mar",
+              "2fev",
               "3mar"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-01"
+            ]
           }
         ],
-        "total_templates": 1
+        "total_templates": 11
       },
       {
         "clinica": "",
@@ -971,15 +1008,23 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Montes Claros",
+            "cidade": "",
             "templates": [
+              "01jan26",
+              "02jan26",
+              "03jan26",
+              "04jan26",
+              "14mar",
+              "15mar",
+              "17mar",
+              "21mar",
+              "24mar",
+              "2fev",
               "3mar"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-01"
+            ]
           }
         ],
-        "total_templates": 1
+        "total_templates": 11
       },
       {
         "clinica": "",
@@ -992,15 +1037,23 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Montes Claros",
+            "cidade": "",
             "templates": [
+              "01jan26",
+              "02jan26",
+              "03jan26",
+              "04jan26",
+              "14mar",
+              "15mar",
+              "17mar",
+              "21mar",
+              "24mar",
+              "2fev",
               "3mar"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-01"
+            ]
           }
         ],
-        "total_templates": 1
+        "total_templates": 11
       }
     ],
     "Giovanni Azzi": [
@@ -1087,15 +1140,17 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Montes Claros",
+            "cidade": "Montes Claros MG",
             "templates": [
+              "14mar",
+              "14teste",
+              "24mar",
+              "2fev",
               "3mar"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-01"
+            ]
           }
         ],
-        "total_templates": 1
+        "total_templates": 5
       },
       {
         "clinica": "São Caetano do Sul",
@@ -1120,15 +1175,13 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Luziânia",
+            "cidade": "Luziania Bellavie",
             "templates": [
               "14mar",
               "24mar",
-              "3mar",
-              "2fev"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-09"
+              "2fev",
+              "3mar"
+            ]
           }
         ],
         "total_templates": 4
@@ -1170,14 +1223,12 @@
           {
             "cidade": "Barbacena",
             "templates": [
-              "21mar",
               "02jan26",
+              "17mar",
+              "21mar",
               "24mar",
-              "2fev",
-              "17mar"
-            ],
-            "narracao": "vagas",
-            "data": "2026-03-24"
+              "2fev"
+            ]
           }
         ],
         "total_templates": 5
@@ -1207,14 +1258,12 @@
           {
             "cidade": "Votuporanga",
             "templates": [
-              "21mar",
               "02jan26",
+              "17mar",
+              "21mar",
               "24mar",
-              "2fev",
-              "17mar"
-            ],
-            "narracao": "vagas",
-            "data": "2026-03-24"
+              "2fev"
+            ]
           }
         ],
         "total_templates": 5
@@ -1326,16 +1375,17 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Campo Bom",
+            "cidade": "Campo bom RS",
             "templates": [
-              "3mar",
-              "14teste"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-03"
+              "02jan26",
+              "17mar",
+              "21mar",
+              "24mar",
+              "2fev"
+            ]
           }
         ],
-        "total_templates": 2
+        "total_templates": 5
       },
       {
         "clinica": "Ferraz Centro - 1K ORTO  1K PRO)",
@@ -1396,16 +1446,14 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Fazenda",
+            "cidade": "Coife Salvador Fazenda Grande",
             "templates": [
-              "21mar",
               "02jan26",
+              "17mar",
+              "21mar",
               "24mar",
-              "2fev",
-              "17mar"
-            ],
-            "narracao": "diferente_v2",
-            "data": "2026-03-24"
+              "2fev"
+            ]
           }
         ],
         "total_templates": 5
@@ -1447,15 +1495,13 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Toledo",
+            "cidade": "087 - Toledo ⚠ (NADA COM GRATIS)",
             "templates": [
               "14mar",
               "24mar",
-              "3mar",
-              "2fev"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-10"
+              "2fev",
+              "3mar"
+            ]
           }
         ],
         "total_templates": 4
@@ -1483,10 +1529,10 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Ponta Grossa",
+            "cidade": "229 -  Ponta Grossa - AV Dr. Vicente Machado",
             "templates": [
-              "15mar",
               "14mar",
+              "15mar",
               "16mar",
               "17mar",
               "18mar",
@@ -1495,9 +1541,7 @@
               "21mar",
               "22mar",
               "24mar"
-            ],
-            "narracao": "ortodontico_v2",
-            "data": "2025-10-14"
+            ]
           }
         ],
         "total_templates": 10
@@ -1510,9 +1554,20 @@
         "valor": "R$1000.00",
         "meta": "R$ 2,10",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "268 - Contagem",
+            "templates": [
+              "02jan26",
+              "17mar",
+              "21mar",
+              "24mar",
+              "2fev"
+            ]
+          }
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "162 - Guaramirim",
@@ -1549,15 +1604,13 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Luziânia",
+            "cidade": "253 - Luziânia",
             "templates": [
               "14mar",
               "24mar",
-              "3mar",
-              "2fev"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-09"
+              "2fev",
+              "3mar"
+            ]
           }
         ],
         "total_templates": 4
@@ -1585,15 +1638,13 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Bocaiuva",
+            "cidade": "312 - Bocaiúva",
             "templates": [
               "14mar",
               "24mar",
-              "3mar",
-              "2fev"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-09"
+              "2fev",
+              "3mar"
+            ]
           }
         ],
         "total_templates": 4
@@ -1609,26 +1660,17 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Suzano",
+            "cidade": "434 - Suzano - SP",
             "templates": [
-              "14mar",
-              "15mar",
-              "16mar",
+              "02jan26",
               "17mar",
-              "18mar",
-              "19mar",
-              "20mar",
               "21mar",
-              "22mar",
               "24mar",
-              "2fev",
-              "3mar"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-06"
+              "2fev"
+            ]
           }
         ],
-        "total_templates": 12
+        "total_templates": 5
       },
       {
         "clinica": "444 -  Boituva",
@@ -1677,17 +1719,17 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Viçosa",
+            "cidade": "217 - Viçosa",
             "templates": [
               "14mar",
-              "15mar",
-              "2fev"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-04"
+              "14teste",
+              "24mar",
+              "2fev",
+              "3mar"
+            ]
           }
         ],
-        "total_templates": 3
+        "total_templates": 5
       },
       {
         "clinica": "Teixeira de Freitas",
@@ -1748,15 +1790,13 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Salto",
+            "cidade": "Salto SP",
             "templates": [
               "14mar",
               "24mar",
-              "3mar",
-              "2fev"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-09"
+              "2fev",
+              "3mar"
+            ]
           }
         ],
         "total_templates": 4
@@ -1820,16 +1860,14 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Cambé",
+            "cidade": "222 - Cambé  CRO M",
             "templates": [
-              "21mar",
-              "02jan26",
+              "14mar",
+              "14teste",
               "24mar",
               "2fev",
-              "17mar"
-            ],
-            "narracao": "diferente",
-            "data": "2025-10-12"
+              "3mar"
+            ]
           }
         ],
         "total_templates": 5
@@ -1905,16 +1943,14 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "São Bernardo",
+            "cidade": "056 - São Bernardo dos Campos",
             "templates": [
-              "21mar",
               "02jan26",
+              "17mar",
+              "21mar",
               "24mar",
-              "2fev",
-              "17mar"
-            ],
-            "narracao": "vagas",
-            "data": "2026-03-24"
+              "2fev"
+            ]
           }
         ],
         "total_templates": 5
@@ -1942,15 +1978,13 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Conselheiro Lafaiete",
+            "cidade": "225 - Conselheiro Lafaiete",
             "templates": [
               "14mar",
               "24mar",
-              "3mar",
-              "2fev"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-09"
+              "2fev",
+              "3mar"
+            ]
           }
         ],
         "total_templates": 4
@@ -1978,15 +2012,13 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Sapiranga",
+            "cidade": "943 - Sapiranga",
             "templates": [
               "14mar",
               "24mar",
-              "3mar",
-              "2fev"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-10"
+              "2fev",
+              "3mar"
+            ]
           }
         ],
         "total_templates": 4
@@ -2184,25 +2216,16 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Tatuapé",
+            "cidade": "099 - Tatuapé",
             "templates": [
-              "14mar",
-              "15mar",
-              "16mar",
-              "17mar",
-              "18mar",
-              "19mar",
               "20mar",
               "21mar",
               "22mar",
-              "24mar",
-              "2fev"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-05"
+              "24mar"
+            ]
           }
         ],
-        "total_templates": 11
+        "total_templates": 4
       },
       {
         "clinica": "148 - ARAGUARI/MG",
@@ -2263,28 +2286,17 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Lapa",
+            "cidade": "234 - Sao Paulo - Lapa",
             "templates": [
-              "7mar",
-              "3mar",
-              "14teste",
-              "2fev",
               "14mar",
-              "15mar",
-              "16mar",
-              "17mar",
-              "18mar",
-              "19mar",
-              "20mar",
-              "21mar",
-              "22mar",
-              "24mar"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-03"
+              "24mar",
+              "2fev",
+              "3mar",
+              "7mar"
+            ]
           }
         ],
-        "total_templates": 14
+        "total_templates": 5
       },
       {
         "clinica": "303 Tupã-Sp",
@@ -2318,28 +2330,9 @@
         "valor": "R$3000.00",
         "meta": "R$ 3,80",
         "meta_batida": "",
-        "tem_video": true,
-        "videos": [
-          {
-            "cidade": "Tucuruvi",
-            "templates": [
-              "3mar",
-              "14mar",
-              "15mar",
-              "16mar",
-              "17mar",
-              "18mar",
-              "19mar",
-              "20mar",
-              "21mar",
-              "22mar",
-              "24mar"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-02"
-          }
-        ],
-        "total_templates": 11
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
       },
       {
         "clinica": "324 - Sarandi",
@@ -2373,28 +2366,9 @@
         "valor": "R$1500.00",
         "meta": "R$ 2,10",
         "meta_batida": "",
-        "tem_video": true,
-        "videos": [
-          {
-            "cidade": "Aparecida de Goiânia",
-            "templates": [
-              "3mar",
-              "14mar",
-              "15mar",
-              "16mar",
-              "17mar",
-              "18mar",
-              "19mar",
-              "20mar",
-              "21mar",
-              "22mar",
-              "24mar"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-02"
-          }
-        ],
-        "total_templates": 11
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
       },
       {
         "clinica": "366 - Colombo PG",
@@ -2404,28 +2378,9 @@
         "valor": "R$2500.00",
         "meta": "R$ 3,70",
         "meta_batida": "",
-        "tem_video": true,
-        "videos": [
-          {
-            "cidade": "Colombo",
-            "templates": [
-              "3mar",
-              "14mar",
-              "15mar",
-              "16mar",
-              "17mar",
-              "18mar",
-              "19mar",
-              "20mar",
-              "21mar",
-              "22mar",
-              "24mar"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-02"
-          }
-        ],
-        "total_templates": 11
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
       },
       {
         "clinica": "375 - Paranoa #",
@@ -2630,15 +2585,17 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Montes Claros",
+            "cidade": "MONTES CLAROS -",
             "templates": [
+              "14mar",
+              "14teste",
+              "24mar",
+              "2fev",
               "3mar"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-01"
+            ]
           }
         ],
-        "total_templates": 1
+        "total_templates": 5
       },
       {
         "clinica": "MONTES CLAROS - PROTESE",
@@ -2651,15 +2608,17 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Montes Claros",
+            "cidade": "MONTES CLAROS - PROTESE",
             "templates": [
+              "14mar",
+              "14teste",
+              "24mar",
+              "2fev",
               "3mar"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-01"
+            ]
           }
         ],
-        "total_templates": 1
+        "total_templates": 5
       },
       {
         "clinica": "NOVA IGUAÇU",
@@ -2684,23 +2643,20 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Santo André",
+            "cidade": "ODC - SANTO ANDRÉ",
             "templates": [
               "01jan26",
               "02jan26",
               "03jan26",
               "04jan26",
+              "17mar",
               "21mar",
-              "02jan26",
               "24mar",
-              "2fev",
-              "17mar"
-            ],
-            "narracao": "diferente",
-            "data": "2025-10-13"
+              "2fev"
+            ]
           }
         ],
-        "total_templates": 9
+        "total_templates": 8
       },
       {
         "clinica": "ODC - SÃO SEBASTIÃO",
@@ -2725,26 +2681,17 @@
         "tem_video": true,
         "videos": [
           {
-            "cidade": "Suzano",
+            "cidade": "ODC - SUZANO - NÃO ABRE O WHATSAPP",
             "templates": [
-              "14mar",
-              "15mar",
-              "16mar",
+              "02jan26",
               "17mar",
-              "18mar",
-              "19mar",
-              "20mar",
               "21mar",
-              "22mar",
               "24mar",
-              "2fev",
-              "3mar"
-            ],
-            "narracao": "ortodontico",
-            "data": "2025-10-06"
+              "2fev"
+            ]
           }
         ],
-        "total_templates": 12
+        "total_templates": 5
       },
       {
         "clinica": "ODONTO COMPANY - CHAPECÓ",
@@ -2766,9 +2713,20 @@
         "valor": "R$1000.00",
         "meta": "R$ 3,50",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "ODONTOCOMPANY - SANTOS",
+            "templates": [
+              "02jan26",
+              "17mar",
+              "21mar",
+              "24mar",
+              "2fev"
+            ]
+          }
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "ODTCLINIC CAJAMAR",
@@ -2874,9 +2832,20 @@
         "valor": "R$1000.00",
         "meta": "R$ 3,00",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "SOROCABA RUA DA PENHA",
+            "templates": [
+              "02jan26",
+              "17mar",
+              "21mar",
+              "24mar",
+              "2fev"
+            ]
+          }
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "TAUBATÉ",
@@ -2948,9 +2917,20 @@
         "valor": "R$1000.00",
         "meta": "R$ 3,70",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "208 -  Araraquara",
+            "templates": [
+              "02jan26",
+              "17mar",
+              "21mar",
+              "24mar",
+              "2fev"
+            ]
+          }
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "235 -Botucatu",
@@ -3092,9 +3072,20 @@
         "valor": "R$1500.00",
         "meta": "R$ 3,70",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "260 - Jaú",
+            "templates": [
+              "02jan26",
+              "17mar",
+              "21mar",
+              "24mar",
+              "2fev"
+            ]
+          }
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "292 - João Pessoa",
@@ -3387,466 +3378,37 @@
     ]
   },
   "total_clinicas": 235,
-  "total_com_video": 43,
-  "ultima_atualizacao": "24/03/2026 19:24",
+  "total_com_video": 47,
+  "ultima_atualizacao": "25/03/2026 10:12",
   "videos_log": [
-    {
-      "cidade": "Montes Claros",
-      "templates": [
-        "3mar"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-01"
-    },
-    {
-      "cidade": "São José do Rio Preto",
-      "templates": [
-        "3mar",
-        "14teste"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-01"
-    },
-    {
-      "cidade": "Olímpia",
-      "templates": [
-        "3mar",
-        "14teste"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-01"
-    },
-    {
-      "cidade": "Fazenda Rio Grande",
-      "templates": [
-        "3mar",
-        "14mar",
-        "15mar",
-        "16mar",
-        "17mar",
-        "18mar",
-        "19mar",
-        "20mar",
-        "21mar",
-        "22mar",
-        "24mar"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-02"
-    },
-    {
-      "cidade": "Colombo",
-      "templates": [
-        "3mar",
-        "14mar",
-        "15mar",
-        "16mar",
-        "17mar",
-        "18mar",
-        "19mar",
-        "20mar",
-        "21mar",
-        "22mar",
-        "24mar"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-02"
-    },
-    {
-      "cidade": "Aparecida de Goiânia",
-      "templates": [
-        "3mar",
-        "14mar",
-        "15mar",
-        "16mar",
-        "17mar",
-        "18mar",
-        "19mar",
-        "20mar",
-        "21mar",
-        "22mar",
-        "24mar"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-02"
-    },
-    {
-      "cidade": "Tucuruvi",
-      "templates": [
-        "3mar",
-        "14mar",
-        "15mar",
-        "16mar",
-        "17mar",
-        "18mar",
-        "19mar",
-        "20mar",
-        "21mar",
-        "22mar",
-        "24mar"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-02"
-    },
-    {
-      "cidade": "Lapa",
-      "templates": [
-        "7mar",
-        "3mar",
-        "14teste",
-        "2fev",
-        "14mar",
-        "15mar",
-        "16mar",
-        "17mar",
-        "18mar",
-        "19mar",
-        "20mar",
-        "21mar",
-        "22mar",
-        "24mar"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-03"
-    },
-    {
-      "cidade": "Joinville",
-      "templates": [
-        "3mar",
-        "14teste"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-03"
-    },
-    {
-      "cidade": "Chapadinha",
-      "templates": [
-        "3mar",
-        "14teste"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-03"
-    },
-    {
-      "cidade": "Campo Bom",
-      "templates": [
-        "3mar",
-        "14teste"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-03"
-    },
-    {
-      "cidade": "Viçosa",
-      "templates": [
-        "14mar",
-        "15mar",
-        "2fev"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-04"
-    },
-    {
-      "cidade": "Santa Bárbara",
-      "templates": [
-        "14mar",
-        "15mar",
-        "2fev",
-        "21mar",
-        "02jan26",
-        "24mar",
-        "17mar"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-04"
-    },
-    {
-      "cidade": "Tatuapé",
-      "templates": [
-        "14mar",
-        "15mar",
-        "16mar",
-        "17mar",
-        "18mar",
-        "19mar",
-        "20mar",
-        "21mar",
-        "22mar",
-        "24mar",
-        "2fev"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-05"
-    },
-    {
-      "cidade": "São Mateus",
-      "templates": [
-        "14mar",
-        "15mar",
-        "16mar",
-        "17mar",
-        "18mar",
-        "19mar",
-        "20mar",
-        "21mar",
-        "22mar",
-        "24mar",
-        "2fev"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-05"
-    },
-    {
-      "cidade": "Volta Redonda",
-      "templates": [
-        "14mar",
-        "15mar",
-        "16mar",
-        "17mar",
-        "18mar",
-        "19mar",
-        "20mar",
-        "21mar",
-        "22mar",
-        "24mar",
-        "2fev"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-05"
-    },
-    {
-      "cidade": "Suzano",
-      "templates": [
-        "14mar",
-        "15mar",
-        "16mar",
-        "17mar",
-        "18mar",
-        "19mar",
-        "20mar",
-        "21mar",
-        "22mar",
-        "24mar",
-        "2fev",
-        "3mar"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-06"
-    },
-    {
-      "cidade": "São Miguel Paulista",
-      "templates": [
-        "14mar",
-        "15mar",
-        "16mar",
-        "17mar",
-        "18mar",
-        "19mar",
-        "20mar",
-        "21mar",
-        "22mar",
-        "24mar",
-        "2fev",
-        "3mar"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-06"
-    },
-    {
-      "cidade": "Mauá",
-      "templates": [
-        "20mar",
-        "21mar",
-        "22mar",
-        "24mar",
-        "2fev"
-      ],
-      "narracao": "mes_consumidor",
-      "data": "2025-10-07"
-    },
     {
       "cidade": "Pirapora",
       "templates": [
-        "20mar",
-        "21mar",
-        "22mar",
-        "24mar",
-        "2fev",
-        "3mar",
-        "14teste"
-      ],
-      "narracao": "mes_consumidor",
-      "data": "2025-10-08"
-    },
-    {
-      "cidade": "Luziânia",
-      "templates": [
-        "14mar",
-        "24mar",
-        "3mar",
-        "2fev"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-09"
-    },
-    {
-      "cidade": "Bocaiuva",
-      "templates": [
-        "14mar",
-        "24mar",
-        "3mar",
-        "2fev"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-09"
-    },
-    {
-      "cidade": "Santo Amaro",
-      "templates": [
-        "14mar",
-        "24mar",
-        "3mar",
-        "2fev"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-09"
-    },
-    {
-      "cidade": "Conselheiro Lafaiete",
-      "templates": [
-        "14mar",
-        "24mar",
-        "3mar",
-        "2fev"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-09"
-    },
-    {
-      "cidade": "Salto",
-      "templates": [
-        "14mar",
-        "24mar",
-        "3mar",
-        "2fev"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-09"
-    },
-    {
-      "cidade": "Unaí",
-      "templates": [
-        "14mar",
-        "24mar",
-        "3mar",
-        "2fev"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-09"
-    },
-    {
-      "cidade": "Toledo",
-      "templates": [
-        "14mar",
-        "24mar",
-        "3mar",
-        "2fev"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-10"
-    },
-    {
-      "cidade": "Sapiranga",
-      "templates": [
-        "14mar",
-        "24mar",
-        "3mar",
-        "2fev"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-10"
-    },
-    {
-      "cidade": "São João do Ivaí",
-      "templates": [
-        "14mar",
-        "24mar",
-        "3mar",
-        "2fev"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-11"
-    },
-    {
-      "cidade": "Gravataí",
-      "templates": [
-        "14mar",
-        "24mar",
-        "3mar",
-        "2fev"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-11"
-    },
-    {
-      "cidade": "Cachoeirinha",
-      "templates": [
-        "14mar",
-        "24mar",
-        "3mar",
-        "2fev"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-11"
-    },
-    {
-      "cidade": "Praia Grande",
-      "templates": [
-        "14mar",
-        "24mar",
-        "3mar",
-        "2fev",
         "01jan26",
         "02jan26",
         "03jan26",
-        "04jan26"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-11"
-    },
-    {
-      "cidade": "Uberlândia",
-      "templates": [
+        "04jan26",
         "14mar",
-        "24mar",
-        "3mar",
-        "2fev"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-11"
-    },
-    {
-      "cidade": "Caetité",
-      "templates": [
-        "14mar",
-        "24mar",
-        "3mar",
-        "2fev"
-      ],
-      "narracao": "ortodontico",
-      "data": "2025-10-11"
-    },
-    {
-      "cidade": "Cambé",
-      "templates": [
+        "15mar",
+        "17mar",
         "21mar",
-        "02jan26",
         "24mar",
         "2fev",
-        "17mar"
-      ],
-      "narracao": "diferente",
-      "data": "2025-10-12"
+        "3mar"
+      ]
+    },
+    {
+      "cidade": "Santo Andre",
+      "templates": [
+        "01jan26",
+        "02jan26",
+        "03jan26",
+        "04jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
     },
     {
       "cidade": "Santo André",
@@ -3855,20 +3417,356 @@
         "02jan26",
         "03jan26",
         "04jan26",
+        "17mar",
         "21mar",
-        "02jan26",
         "24mar",
-        "2fev",
-        "17mar"
-      ],
-      "narracao": "diferente",
-      "data": "2025-10-13"
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Praia Grande",
+      "templates": [
+        "01jan26",
+        "02jan26",
+        "03jan26",
+        "04jan26"
+      ]
+    },
+    {
+      "cidade": "Dois Irmaos",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Dois Irmãos",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Votuporanga",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Sao Bernardo",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "São Bernardo",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Osasco",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Santa Barbara",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Santa Bárbara",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Barbacena",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Queimadas",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Fazenda",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Januaria",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Januária",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Santos",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Guaruja",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Guarujá",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Araraquara",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Cachoeira Paulista",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Barro Preto",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Brasilia",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Brasília",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Sorocaba",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Campo Bom",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Olimpia",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Olímpia",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Uberlandia",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Uberlândia",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Sao Jose Do Rio Preto",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "São José Do Rio Preto",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Sao Jose Dos Campos",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "São José Dos Campos",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Contagem",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Betim",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
     },
     {
       "cidade": "Ponta Grossa",
       "templates": [
-        "15mar",
         "14mar",
+        "15mar",
         "16mar",
         "17mar",
         "18mar",
@@ -3877,105 +3775,326 @@
         "21mar",
         "22mar",
         "24mar"
-      ],
-      "narracao": "ortodontico_v2",
-      "data": "2025-10-14"
+      ]
     },
     {
-      "cidade": "Votuporanga",
+      "cidade": "Maua",
       "templates": [
+        "14mar",
+        "15mar",
+        "20mar",
         "21mar",
-        "02jan26",
+        "22mar",
         "24mar",
         "2fev",
-        "17mar"
-      ],
-      "narracao": "vagas",
-      "data": "2026-03-24"
+        "3mar"
+      ]
     },
     {
-      "cidade": "São Bernardo",
+      "cidade": "Mauá",
       "templates": [
+        "14mar",
+        "15mar",
+        "20mar",
         "21mar",
-        "02jan26",
+        "22mar",
         "24mar",
         "2fev",
-        "17mar"
-      ],
-      "narracao": "vagas",
-      "data": "2026-03-24"
+        "3mar"
+      ]
     },
     {
-      "cidade": "Osasco",
+      "cidade": "Lapa",
       "templates": [
-        "21mar",
-        "02jan26",
+        "14mar",
         "24mar",
         "2fev",
-        "17mar"
-      ],
-      "narracao": "vagas",
-      "data": "2026-03-24"
+        "3mar",
+        "7mar"
+      ]
     },
     {
-      "cidade": "Barbacena",
+      "cidade": "Tatuape",
       "templates": [
+        "20mar",
         "21mar",
-        "02jan26",
-        "24mar",
-        "2fev",
-        "17mar"
-      ],
-      "narracao": "vagas",
-      "data": "2026-03-24"
+        "22mar",
+        "24mar"
+      ]
     },
     {
-      "cidade": "Dois Irmãos",
+      "cidade": "Tatuapé",
       "templates": [
+        "20mar",
         "21mar",
-        "02jan26",
-        "24mar",
-        "2fev",
-        "17mar"
-      ],
-      "narracao": "diferente_v2",
-      "data": "2026-03-24"
+        "22mar",
+        "24mar"
+      ]
     },
     {
-      "cidade": "Queimadas",
+      "cidade": "Sao Miguel Paulista",
       "templates": [
-        "21mar",
         "02jan26",
+        "17mar",
+        "21mar",
         "24mar",
-        "2fev",
-        "17mar"
-      ],
-      "narracao": "diferente_v2",
-      "data": "2026-03-24"
+        "2fev"
+      ]
     },
     {
-      "cidade": "Fazenda",
+      "cidade": "São Miguel Paulista",
       "templates": [
-        "21mar",
         "02jan26",
+        "17mar",
+        "21mar",
         "24mar",
-        "2fev",
-        "17mar"
-      ],
-      "narracao": "diferente_v2",
-      "data": "2026-03-24"
+        "2fev"
+      ]
     },
     {
-      "cidade": "Januária",
+      "cidade": "Suzano",
       "templates": [
-        "21mar",
         "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Graja",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Grajaú",
+      "templates": [
+        "02jan26",
+        "17mar",
+        "21mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Joinville",
+      "templates": [
+        "14teste",
+        "3mar"
+      ]
+    },
+    {
+      "cidade": "Viçosa",
+      "templates": [
+        "14mar",
+        "14teste",
         "24mar",
         "2fev",
-        "17mar"
-      ],
-      "narracao": "diferente_v2",
-      "data": "2026-03-24"
+        "3mar"
+      ]
+    },
+    {
+      "cidade": "Vicosa",
+      "templates": [
+        "14mar",
+        "14teste",
+        "24mar",
+        "2fev",
+        "3mar"
+      ]
+    },
+    {
+      "cidade": "Volta Redonda",
+      "templates": [
+        "14mar",
+        "24mar",
+        "2fev"
+      ]
+    },
+    {
+      "cidade": "Luziania",
+      "templates": [
+        "14mar",
+        "24mar",
+        "2fev",
+        "3mar"
+      ]
+    },
+    {
+      "cidade": "Luziânia",
+      "templates": [
+        "14mar",
+        "24mar",
+        "2fev",
+        "3mar"
+      ]
+    },
+    {
+      "cidade": "Bocaiuva",
+      "templates": [
+        "14mar",
+        "24mar",
+        "2fev",
+        "3mar"
+      ]
+    },
+    {
+      "cidade": "Bocaiúva",
+      "templates": [
+        "14mar",
+        "24mar",
+        "2fev",
+        "3mar"
+      ]
+    },
+    {
+      "cidade": "Salto",
+      "templates": [
+        "14mar",
+        "24mar",
+        "2fev",
+        "3mar"
+      ]
+    },
+    {
+      "cidade": "Unai",
+      "templates": [
+        "14mar",
+        "24mar",
+        "2fev",
+        "3mar"
+      ]
+    },
+    {
+      "cidade": "Unaí",
+      "templates": [
+        "14mar",
+        "24mar",
+        "2fev",
+        "3mar"
+      ]
+    },
+    {
+      "cidade": "Conselheiro Lafaiete",
+      "templates": [
+        "14mar",
+        "24mar",
+        "2fev",
+        "3mar"
+      ]
+    },
+    {
+      "cidade": "Santo Amaro",
+      "templates": [
+        "14mar",
+        "24mar",
+        "2fev",
+        "3mar"
+      ]
+    },
+    {
+      "cidade": "Sapiranga",
+      "templates": [
+        "14mar",
+        "24mar",
+        "2fev",
+        "3mar"
+      ]
+    },
+    {
+      "cidade": "Toledo",
+      "templates": [
+        "14mar",
+        "24mar",
+        "2fev",
+        "3mar"
+      ]
+    },
+    {
+      "cidade": "Gravata",
+      "templates": [
+        "14mar",
+        "14teste",
+        "24mar",
+        "2fev",
+        "3mar"
+      ]
+    },
+    {
+      "cidade": "Gravatai",
+      "templates": [
+        "14mar",
+        "14teste",
+        "24mar",
+        "2fev",
+        "3mar"
+      ]
+    },
+    {
+      "cidade": "Cachoeirinha",
+      "templates": [
+        "14mar",
+        "14teste",
+        "24mar",
+        "2fev",
+        "3mar"
+      ]
+    },
+    {
+      "cidade": "Caetite",
+      "templates": [
+        "14mar",
+        "14teste",
+        "24mar",
+        "2fev",
+        "3mar"
+      ]
+    },
+    {
+      "cidade": "Sao Joao Do Ivai",
+      "templates": [
+        "14mar",
+        "14teste",
+        "24mar",
+        "2fev",
+        "3mar"
+      ]
+    },
+    {
+      "cidade": "Cambe",
+      "templates": [
+        "14mar",
+        "14teste",
+        "24mar",
+        "2fev",
+        "3mar"
+      ]
+    },
+    {
+      "cidade": "Cambé",
+      "templates": [
+        "14mar",
+        "14teste",
+        "24mar",
+        "2fev",
+        "3mar"
+      ]
+    },
+    {
+      "cidade": "Montes Claros",
+      "templates": [
+        "14mar",
+        "14teste",
+        "24mar",
+        "2fev",
+        "3mar"
+      ]
     }
-  ]
+  ],
+  "clinicas_com_video": 47
 }
