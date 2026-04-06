@@ -69,9 +69,28 @@
         "valor": "R$1000.00",
         "meta": "R$ 5,00",
         "meta_batida": "🏆✅",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "195 - Brusque",
+            "templates": [
+              "14mar",
+              "17mar",
+              "1abril",
+              "1mar",
+              "2abril",
+              "2fev",
+              "2mar",
+              "3abril",
+              "3mar",
+              "4abril",
+              "5abril",
+              "6abril",
+              "7abril"
+            ]
+          }
+        ],
+        "total_templates": 13
       },
       {
         "clinica": "248 - Cachoeirinha/RS",
@@ -146,14 +165,24 @@
             "cidade": "017 - Campo Bom/RS",
             "templates": [
               "02jan26",
+              "14mar",
               "17mar",
+              "1abril",
+              "1mar",
               "21mar",
               "24mar",
-              "2fev"
+              "2abril",
+              "2fev",
+              "2mar",
+              "3abril",
+              "4abril",
+              "5abril",
+              "6abril",
+              "7abril"
             ]
           }
         ],
-        "total_templates": 5
+        "total_templates": 15
       },
       {
         "clinica": "21 - Cascavel Afonso Pena",
@@ -354,9 +383,28 @@
         "valor": "R$2000.00",
         "meta": "R$ 6,70",
         "meta_batida": "🏆✅",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "128 - Itumbiara",
+            "templates": [
+              "14mar",
+              "17mar",
+              "1abril",
+              "1mar",
+              "2abril",
+              "2fev",
+              "2mar",
+              "3abril",
+              "3mar",
+              "4abril",
+              "5abril",
+              "6abril",
+              "7abril"
+            ]
+          }
+        ],
+        "total_templates": 13
       },
       {
         "clinica": "Joinville Aventureiro/SC",
@@ -605,14 +653,23 @@
               "14mar",
               "15mar",
               "17mar",
+              "1abril",
+              "1mar",
               "21mar",
               "24mar",
+              "2abril",
               "2fev",
-              "3mar"
+              "2mar",
+              "3abril",
+              "3mar",
+              "4abril",
+              "5abril",
+              "6abril",
+              "7abril"
             ]
           }
         ],
-        "total_templates": 11
+        "total_templates": 20
       },
       {
         "clinica": "Poços de Caldas/MG",
@@ -787,9 +844,28 @@
         "valor": "R$2100.00",
         "meta": "R$ 3,50",
         "meta_batida": "🏆✅",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "079 -  São Vicente",
+            "templates": [
+              "14mar",
+              "17mar",
+              "1abril",
+              "1mar",
+              "2abril",
+              "2fev",
+              "2mar",
+              "3abril",
+              "3mar",
+              "4abril",
+              "5abril",
+              "6abril",
+              "7abril"
+            ]
+          }
+        ],
+        "total_templates": 13
       },
       {
         "clinica": "Santa Bárbara D'Oeste",
@@ -805,14 +881,24 @@
             "cidade": "Santa Bárbara D'Oeste",
             "templates": [
               "02jan26",
+              "14mar",
               "17mar",
+              "1abril",
+              "1mar",
               "21mar",
               "24mar",
-              "2fev"
+              "2abril",
+              "2fev",
+              "2mar",
+              "3abril",
+              "4abril",
+              "5abril",
+              "6abril",
+              "7abril"
             ]
           }
         ],
-        "total_templates": 5
+        "total_templates": 15
       },
       {
         "clinica": "Sete Lagoas",
@@ -822,9 +908,20 @@
         "valor": "R$3000.00",
         "meta": "R$ 6,70",
         "meta_batida": "🏆✅",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Sete Lagoas",
+            "templates": [
+              "10abril",
+              "11abril",
+              "12abril",
+              "13abril",
+              "9abril"
+            ]
+          }
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "Tremembé/SP Orto ODC",
@@ -904,9 +1001,21 @@
         "valor": "R$2000.00",
         "meta": "R$ 5,00",
         "meta_batida": "❌",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "377 - Vespasiano",
+            "templates": [
+              "14mar",
+              "17mar",
+              "1mar",
+              "2fev",
+              "2mar",
+              "3mar"
+            ]
+          }
+        ],
+        "total_templates": 6
       }
     ],
     "Sem Gestor": [
@@ -1089,9 +1198,18 @@
         "valor": "R$1600.00",
         "meta": "R$ 3,45",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Duque de Caxias RJ",
+            "templates": [
+              "2fev",
+              "5abril",
+              "6abril"
+            ]
+          }
+        ],
+        "total_templates": 3
       },
       {
         "clinica": "Bagé RS",
@@ -1160,9 +1278,18 @@
         "valor": "R$1000.00",
         "meta": "R$ 3,50",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "São Caetano do Sul",
+            "templates": [
+              "2fev",
+              "5abril",
+              "6abril"
+            ]
+          }
+        ],
+        "total_templates": 3
       },
       {
         "clinica": "Luziania Bellavie",
@@ -1288,9 +1415,20 @@
         "valor": "R$2500.00",
         "meta": "R$ 4,00",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Sinop",
+            "templates": [
+              "17mar",
+              "1mar",
+              "2fev",
+              "2mar",
+              "3mar"
+            ]
+          }
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "112 - Limeira",
@@ -1348,9 +1486,18 @@
         "valor": "R$2000.00",
         "meta": "R$ 4,00",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Itajai 1",
+            "templates": [
+              "2fev",
+              "5abril",
+              "6abril"
+            ]
+          }
+        ],
+        "total_templates": 3
       },
       {
         "clinica": "Hortolândia - (1K ORTO  1K IMP)",
@@ -1497,14 +1644,19 @@
           {
             "cidade": "087 - Toledo ⚠ (NADA COM GRATIS)",
             "templates": [
+              "10abril",
+              "11abril",
+              "12abril",
+              "13abril",
               "14mar",
               "24mar",
               "2fev",
-              "3mar"
+              "3mar",
+              "9abril"
             ]
           }
         ],
-        "total_templates": 4
+        "total_templates": 9
       },
       {
         "clinica": "120 - Piracicaba",
@@ -1723,13 +1875,16 @@
             "templates": [
               "14mar",
               "14teste",
+              "17mar",
+              "1mar",
               "24mar",
               "2fev",
+              "2mar",
               "3mar"
             ]
           }
         ],
-        "total_templates": 5
+        "total_templates": 8
       },
       {
         "clinica": "Teixeira de Freitas",
@@ -1916,9 +2071,18 @@
         "valor": "R$1000.00",
         "meta": "R$ 3,50",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "125 - Belo Horizonte - Av. Amazonas",
+            "templates": [
+              "2fev",
+              "5abril",
+              "6abril"
+            ]
+          }
+        ],
+        "total_templates": 3
       },
       {
         "clinica": "022 - Campo Grande",
@@ -1963,9 +2127,20 @@
         "valor": "R$3000.00",
         "meta": "R$ 3,70",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "057 - Passo Fundo",
+            "templates": [
+              "17mar",
+              "1mar",
+              "2fev",
+              "2mar",
+              "3mar"
+            ]
+          }
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "225 - Conselheiro Lafaiete",
@@ -2017,11 +2192,13 @@
               "14mar",
               "24mar",
               "2fev",
-              "3mar"
+              "3mar",
+              "5abril",
+              "6abril"
             ]
           }
         ],
-        "total_templates": 4
+        "total_templates": 6
       },
       {
         "clinica": "765- Vila Velha",
@@ -2043,9 +2220,18 @@
         "valor": "R$1000.00",
         "meta": "R$ 2,80",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "690 - Belo Horizonte - Rua Curitiba",
+            "templates": [
+              "2fev",
+              "5abril",
+              "6abril"
+            ]
+          }
+        ],
+        "total_templates": 3
       },
       {
         "clinica": "879 - Senador Canedo",
@@ -2306,9 +2492,22 @@
         "valor": "R$1000.00",
         "meta": "R$ 6,70",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "303 Tupã-Sp",
+            "templates": [
+              "1abril",
+              "2abril",
+              "3abril",
+              "4abril",
+              "5abril",
+              "6abril",
+              "7abril"
+            ]
+          }
+        ],
+        "total_templates": 7
       },
       {
         "clinica": "305 - PLANALTINA",
@@ -2318,9 +2517,22 @@
         "valor": "R$1000.00",
         "meta": "R$ 3,50",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "305 - PLANALTINA",
+            "templates": [
+              "1abril",
+              "2abril",
+              "3abril",
+              "4abril",
+              "5abril",
+              "6abril",
+              "7abril"
+            ]
+          }
+        ],
+        "total_templates": 7
       },
       {
         "clinica": "320 - Tucuruvi",
@@ -2330,9 +2542,22 @@
         "valor": "R$3000.00",
         "meta": "R$ 3,80",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "320 - Tucuruvi",
+            "templates": [
+              "1abril",
+              "2abril",
+              "3abril",
+              "4abril",
+              "5abril",
+              "6abril",
+              "7abril"
+            ]
+          }
+        ],
+        "total_templates": 7
       },
       {
         "clinica": "324 - Sarandi",
@@ -2378,9 +2603,22 @@
         "valor": "R$2500.00",
         "meta": "R$ 3,70",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "366 - Colombo PG",
+            "templates": [
+              "1abril",
+              "2abril",
+              "3abril",
+              "4abril",
+              "5abril",
+              "6abril",
+              "7abril"
+            ]
+          }
+        ],
+        "total_templates": 7
       },
       {
         "clinica": "375 - Paranoa #",
@@ -2462,9 +2700,22 @@
         "valor": "R$1000.00",
         "meta": "",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "CURITIBA AMEY",
+            "templates": [
+              "1abril",
+              "2abril",
+              "3abril",
+              "4abril",
+              "5abril",
+              "6abril",
+              "7abril"
+            ]
+          }
+        ],
+        "total_templates": 7
       },
       {
         "clinica": "CURITIBA-FLORIANO XV DE NOVEMBRO",
@@ -2474,9 +2725,22 @@
         "valor": "R$6000.00",
         "meta": "R$ 3,80",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "CURITIBA-FLORIANO XV DE NOVEMBRO",
+            "templates": [
+              "1abril",
+              "2abril",
+              "3abril",
+              "4abril",
+              "5abril",
+              "6abril",
+              "7abril"
+            ]
+          }
+        ],
+        "total_templates": 7
       },
       {
         "clinica": "DEMERVAL LOBÃO",
@@ -2650,13 +2914,23 @@
               "03jan26",
               "04jan26",
               "17mar",
+              "1abril",
+              "1mar",
               "21mar",
               "24mar",
-              "2fev"
+              "2abril",
+              "2fev",
+              "2mar",
+              "3abril",
+              "3mar",
+              "4abril",
+              "5abril",
+              "6abril",
+              "7abril"
             ]
           }
         ],
-        "total_templates": 8
+        "total_templates": 18
       },
       {
         "clinica": "ODC - SÃO SEBASTIÃO",
@@ -2719,14 +2993,25 @@
             "cidade": "ODONTOCOMPANY - SANTOS",
             "templates": [
               "02jan26",
+              "14mar",
               "17mar",
+              "1abril",
+              "1mar",
               "21mar",
               "24mar",
-              "2fev"
+              "2abril",
+              "2fev",
+              "2mar",
+              "3abril",
+              "3mar",
+              "4abril",
+              "5abril",
+              "6abril",
+              "7abril"
             ]
           }
         ],
-        "total_templates": 5
+        "total_templates": 16
       },
       {
         "clinica": "ODTCLINIC CAJAMAR",
@@ -3378,8 +3663,8 @@
     ]
   },
   "total_clinicas": 235,
-  "total_com_video": 47,
-  "ultima_atualizacao": "25/03/2026 10:12",
+  "total_com_video": 65,
+  "ultima_atualizacao": "2026-04-06 18:02",
   "videos_log": [
     {
       "cidade": "Pirapora",
