@@ -51,9 +51,15 @@
         "valor": "R$1300.00",
         "meta": "R$ 6,70",
         "meta_batida": "🏆✅",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "Altamira/PR",
@@ -158,9 +164,14 @@
           "02jan26",
           "24mar",
           "2fev",
-          "17mar"
+          "17mar",
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
         ],
-        "total_templates": 7
+        "total_templates": 12
       },
       {
         "clinica": "017 - Campo Bom/RS",
@@ -258,9 +269,15 @@
         "valor": "R$1500.00",
         "meta": "R$ 5,00",
         "meta_batida": "🏆✅",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "Engenho Novo/RJ ODC",
@@ -302,9 +319,14 @@
           "02jan26",
           "24mar",
           "2fev",
-          "17mar"
+          "17mar",
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
         ],
-        "total_templates": 7
+        "total_templates": 12
       },
       {
         "clinica": "Gurupi Implante",
@@ -332,9 +354,14 @@
           "02jan26",
           "24mar",
           "2fev",
-          "17mar"
+          "17mar",
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
         ],
-        "total_templates": 5
+        "total_templates": 10
       },
       {
         "clinica": "Itabira/MG ODC",
@@ -368,9 +395,15 @@
         "valor": "R$2000.00",
         "meta": "R$ 3,70",
         "meta_batida": "🏆✅",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "Itaquaquecetuba Orto ODC",
@@ -695,9 +728,15 @@
         "valor": "R$500.00",
         "meta": "R$ 4,00",
         "meta_batida": "🏆✅",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "Campo Grande Ortoestética Implante",
@@ -707,9 +746,15 @@
         "valor": "R$500.00",
         "meta": "R$ 6,70",
         "meta_batida": "Não Conta",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "Recanto das Emas Brasília",
@@ -725,9 +770,14 @@
           "02jan26",
           "24mar",
           "2fev",
-          "17mar"
+          "17mar",
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
         ],
-        "total_templates": 5
+        "total_templates": 10
       },
       {
         "clinica": "RedeOrto Santa Quitéria/MA",
@@ -749,9 +799,15 @@
         "valor": "R$2000.00",
         "meta": "R$ 2,10",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "Rio de Janeiro Madureira",
@@ -791,9 +847,14 @@
           "02jan26",
           "24mar",
           "2fev",
-          "17mar"
+          "17mar",
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
         ],
-        "total_templates": 5
+        "total_templates": 10
       },
       {
         "clinica": "078 -  São José dos Pinhais",
@@ -805,9 +866,14 @@
         "meta_batida": "🏆✅",
         "tem_video": true,
         "videos": [
-          "21mar"
+          "21mar",
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
         ],
-        "total_templates": 1
+        "total_templates": 6
       },
       {
         "clinica": "077 - São José do Rio Preto",
@@ -886,9 +952,14 @@
               "6abril",
               "7abril"
             ]
-          }
+          },
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
         ],
-        "total_templates": 12
+        "total_templates": 17
       },
       {
         "clinica": "Sete Lagoas",
@@ -995,9 +1066,14 @@
               "2mar",
               "3mar"
             ]
-          }
+          },
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
         ],
-        "total_templates": 6
+        "total_templates": 11
       }
     ],
     "Sem Gestor": [
@@ -1285,9 +1361,14 @@
           "02jan26",
           "24mar",
           "2fev",
-          "17mar"
+          "17mar",
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
         ],
-        "total_templates": 6
+        "total_templates": 11
       },
       {
         "clinica": "Maringá",
@@ -1398,9 +1479,14 @@
               "2mar",
               "3mar"
             ]
-          }
+          },
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
         ],
-        "total_templates": 5
+        "total_templates": 10
       },
       {
         "clinica": "112 - Limeira",
@@ -1558,9 +1644,14 @@
           "20mar",
           "21mar",
           "22mar",
-          "24mar"
+          "24mar",
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
         ],
-        "total_templates": 10
+        "total_templates": 15
       },
       {
         "clinica": "Coife Salvador Fazenda Grande",
@@ -1581,9 +1672,14 @@
           "20mar",
           "21mar",
           "22mar",
-          "24mar"
+          "24mar",
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
         ],
-        "total_templates": 10
+        "total_templates": 15
       },
       {
         "clinica": "Afonso Claudio",
@@ -1665,9 +1761,14 @@
           "20mar",
           "21mar",
           "22mar",
-          "24mar"
+          "24mar",
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
         ],
-        "total_templates": 10
+        "total_templates": 15
       },
       {
         "clinica": "268 - Contagem",
@@ -1707,9 +1808,15 @@
         "valor": "R$1000.00",
         "meta": "R$ 6,67",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "253 - Luziânia",
@@ -1726,9 +1833,14 @@
           "02jan26",
           "24mar",
           "2fev",
-          "17mar"
+          "17mar",
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
         ],
-        "total_templates": 6
+        "total_templates": 11
       },
       {
         "clinica": "215 - Gama",
@@ -1738,9 +1850,15 @@
         "valor": "R$1500.00",
         "meta": "R$ 4,00",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "312 - Bocaiúva",
@@ -1757,9 +1875,14 @@
           "02jan26",
           "24mar",
           "2fev",
-          "17mar"
+          "17mar",
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
         ],
-        "total_templates": 6
+        "total_templates": 11
       },
       {
         "clinica": "434 - Suzano - SP",
@@ -1777,9 +1900,14 @@
           "24mar",
           "02jan26",
           "2fev",
-          "17mar"
+          "17mar",
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
         ],
-        "total_templates": 7
+        "total_templates": 12
       },
       {
         "clinica": "444 -  Boituva",
@@ -1815,9 +1943,14 @@
         "meta_batida": "",
         "tem_video": true,
         "videos": [
-          "21mar"
+          "21mar",
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
         ],
-        "total_templates": 1
+        "total_templates": 6
       },
       {
         "clinica": "217 - Viçosa",
@@ -1836,9 +1969,14 @@
               "1mar",
               "2mar"
             ]
-          }
+          },
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
         ],
-        "total_templates": 3
+        "total_templates": 8
       },
       {
         "clinica": "Teixeira de Freitas",
@@ -1848,9 +1986,15 @@
         "valor": "R$1000.00",
         "meta": "R$ 3,70",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "256 - Campo Mourão",
@@ -1860,9 +2004,15 @@
         "valor": "R$1000.00",
         "meta": "R$ 5,00",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "240 - Serra",
@@ -1884,9 +2034,15 @@
         "valor": "R$1500.00",
         "meta": "R$ 3,70",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "Salto SP",
@@ -1903,9 +2059,14 @@
           "02jan26",
           "24mar",
           "2fev",
-          "17mar"
+          "17mar",
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
         ],
-        "total_templates": 6
+        "total_templates": 11
       },
       {
         "clinica": "044 - Juiz de Fora Mister Shopping",
@@ -1927,9 +2088,15 @@
         "valor": "R$2000.00",
         "meta": "R$ 6,67",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "015 - Fazz Chapecó",
@@ -1939,9 +2106,15 @@
         "valor": "R$1000.00",
         "meta": "R$ 4,00",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "095 - Divinópolis",
@@ -1972,9 +2145,14 @@
           "24mar",
           "2fev",
           "17mar",
-          "guanambi"
+          "guanambi",
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
         ],
-        "total_templates": 8
+        "total_templates": 13
       },
       {
         "clinica": "897 - Ribeirão Preto",
@@ -1984,9 +2162,15 @@
         "valor": "R$1000.00",
         "meta": "R$ 3,20",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "019 - Campo Largo",
@@ -2008,9 +2192,15 @@
         "valor": "R$1000.00",
         "meta": "R$ 4,40",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "125 - Belo Horizonte - Av. Amazonas",
@@ -2041,9 +2231,15 @@
         "valor": "R$1000.00",
         "meta": "R$ 3,40",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "056 - São Bernardo dos Campos",
@@ -2082,9 +2278,14 @@
               "2mar",
               "3mar"
             ]
-          }
+          },
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
         ],
-        "total_templates": 5
+        "total_templates": 10
       },
       {
         "clinica": "225 - Conselheiro Lafaiete",
@@ -2101,9 +2302,14 @@
           "02jan26",
           "24mar",
           "2fev",
-          "17mar"
+          "17mar",
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
         ],
-        "total_templates": 6
+        "total_templates": 11
       },
       {
         "clinica": "843 - Esteio",
@@ -2133,9 +2339,14 @@
               "5abril",
               "6abril"
             ]
-          }
+          },
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
         ],
-        "total_templates": 2
+        "total_templates": 7
       },
       {
         "clinica": "765- Vila Velha",
@@ -2180,9 +2391,14 @@
         "meta_batida": "",
         "tem_video": true,
         "videos": [
-          "21mar"
+          "21mar",
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
         ],
-        "total_templates": 1
+        "total_templates": 6
       },
       {
         "clinica": "653 - São Bento do Sul",
@@ -2278,9 +2494,14 @@
         "meta_batida": "",
         "tem_video": true,
         "videos": [
-          "21mar"
+          "21mar",
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
         ],
-        "total_templates": 1
+        "total_templates": 6
       }
     ],
     "Igor Teixeira": [
@@ -2372,9 +2593,15 @@
         "valor": "R$1000.00",
         "meta": "R$ 2,10",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "158 - NAVEGANTES/SC\\",
@@ -2490,9 +2717,14 @@
               "6abril",
               "7abril"
             ]
-          }
+          },
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
         ],
-        "total_templates": 7
+        "total_templates": 12
       },
       {
         "clinica": "324 - Sarandi",
@@ -2625,9 +2857,15 @@
         "valor": "R$1600.00",
         "meta": "R$ 3,80",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "COUTRIM ADVOGADOS",
@@ -2875,9 +3113,14 @@
               "6abril",
               "7abril"
             ]
-          }
+          },
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
         ],
-        "total_templates": 10
+        "total_templates": 15
       },
       {
         "clinica": "ODC - SÃO SEBASTIÃO",
@@ -2913,9 +3156,14 @@
           "24mar",
           "02jan26",
           "2fev",
-          "17mar"
+          "17mar",
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
         ],
-        "total_templates": 7
+        "total_templates": 12
       },
       {
         "clinica": "ODONTO COMPANY - CHAPECÓ",
@@ -2925,9 +3173,15 @@
         "valor": "R$1000.00",
         "meta": "R$ 3,00",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "ODONTOCOMPANY - SANTOS",
@@ -2954,9 +3208,14 @@
               "6abril",
               "7abril"
             ]
-          }
+          },
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
         ],
-        "total_templates": 11
+        "total_templates": 16
       },
       {
         "clinica": "ODTCLINIC CAJAMAR",
@@ -3104,9 +3363,15 @@
         "valor": "R$1000.00",
         "meta": "R$ 6,67",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "TUBARÃO",
@@ -3140,9 +3405,14 @@
           "02jan26",
           "24mar",
           "2fev",
-          "17mar"
+          "17mar",
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
         ],
-        "total_templates": 5
+        "total_templates": 10
       },
       {
         "clinica": "Vargem grande",
@@ -3256,9 +3526,15 @@
         "valor": "",
         "meta": "R$ 2,10",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "033 - Franca",
@@ -3466,9 +3742,14 @@
           "02jan26",
           "24mar",
           "2fev",
-          "17mar"
+          "17mar",
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
         ],
-        "total_templates": 5
+        "total_templates": 10
       },
       {
         "clinica": "422 - Trindade",
@@ -3568,9 +3849,15 @@
         "valor": "R$1700.00",
         "meta": "R$ 1,67",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "216 - Indaial",
@@ -3592,9 +3879,15 @@
         "valor": "R$850.00",
         "meta": "R$ 6,70",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "Palmas   -  NOVA",
@@ -3604,9 +3897,15 @@
         "valor": "R$1000.00",
         "meta": "R$ 3,50",
         "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
       },
       {
         "clinica": "Teresina - Coife",
@@ -3635,8 +3934,8 @@
     ]
   },
   "total_clinicas": 235,
-  "total_com_video": 90,
-  "ultima_atualizacao": "2026-04-06 18:03",
+  "total_com_video": 114,
+  "ultima_atualizacao": "2026-04-09 13:56",
   "videos_log": [
     {
       "cidade": "Pirapora",
@@ -4353,5 +4652,5 @@
       ]
     }
   ],
-  "clinicas_com_video": 47
+  "clinicas_com_video": 114
 }
