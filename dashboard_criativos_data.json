@@ -1074,6 +1074,24 @@
           "13abril"
         ],
         "total_templates": 11
+      },
+      {
+        "clinica": "Curvelo Orthodontic",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
       }
     ],
     "Sem Gestor": [
@@ -1704,6 +1722,62 @@
         "tem_video": false,
         "videos": [],
         "total_templates": 0
+      },
+      {
+        "clinica": "Guarulhos",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "Barão de Cocais",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "ITU",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril",
+          "17mar",
+          "1mar"
+        ],
+        "total_templates": 7
       }
     ],
     "Gustavo Motta": [
@@ -2502,6 +2576,204 @@
           "13abril"
         ],
         "total_templates": 6
+      },
+      {
+        "clinica": "Jordanesia",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "Sumaré",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "095  - João Monlevade",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "093- Unai.",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "344 - Piraquara",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "877- Três Lagoas",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "Pedreira/SP",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "Timoteo/MG",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "Volta Redonda",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "Grajaú",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "01 - São Miguel Paulista",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
       }
     ],
     "Igor Teixeira": [
@@ -3425,6 +3697,60 @@
         "tem_video": false,
         "videos": [],
         "total_templates": 0
+      },
+      {
+        "clinica": "Cabo frio",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "Catanduva",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "OSASCO",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
       }
     ],
     "Gustavo Bueno": [
@@ -3930,12 +4256,248 @@
         "tem_video": false,
         "videos": [],
         "total_templates": 0
+      },
+      {
+        "clinica": "Rio Claro/SP - Orthopride",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "Porto Alegre - OrthoDontic",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "Itabuna BA - OrthoDontic",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
+      }
+    ],
+    "Victor Coutinho": [
+      {
+        "clinica": "Meu Dentista Abaetetuba",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "Cachoeiro de Itapemirim",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "OralDents Ecoporanga",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "São João do Ivaí",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "Oraldents Divino",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "Boa Vista RR",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "italva",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "Pelotas",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "Niteroi Fonseca",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "Orthopride Barra Mansa",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
       }
     ]
   },
-  "total_clinicas": 235,
-  "total_com_video": 114,
-  "ultima_atualizacao": "2026-04-09 14:00",
+  "total_clinicas": 266,
+  "total_com_video": 145,
+  "ultima_atualizacao": "2026-04-10 10:24",
   "videos_log": [
     {
       "cidade": "Pirapora",
@@ -4652,5 +5214,5 @@
       ]
     }
   ],
-  "clinicas_com_video": 114
+  "clinicas_com_video": 145
 }
