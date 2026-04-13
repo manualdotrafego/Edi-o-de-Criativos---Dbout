@@ -3109,9 +3109,12 @@
           "02jan26",
           "24mar",
           "2fev",
-          "17mar"
+          "17mar",
+          "8mar",
+          "16out",
+          "20set"
         ],
-        "total_templates": 6
+        "total_templates": 9
       },
       {
         "clinica": "303 Tupã-Sp",
@@ -3123,20 +3126,11 @@
         "meta_batida": "",
         "tem_video": true,
         "videos": [
-          {
-            "cidade": "303 Tupã-Sp",
-            "templates": [
-              "1abril",
-              "2abril",
-              "3abril",
-              "4abril",
-              "5abril",
-              "6abril",
-              "7abril"
-            ]
-          }
+          "8mar",
+          "16out",
+          "20set"
         ],
-        "total_templates": 7
+        "total_templates": 3
       },
       {
         "clinica": "305 - PLANALTINA",
@@ -3233,9 +3227,12 @@
           "02jan26",
           "24mar",
           "2fev",
-          "17mar"
+          "17mar",
+          "8mar",
+          "16out",
+          "20set"
         ],
-        "total_templates": 7
+        "total_templates": 10
       },
       {
         "clinica": "366 - Colombo PG",
@@ -3247,20 +3244,11 @@
         "meta_batida": "",
         "tem_video": true,
         "videos": [
-          {
-            "cidade": "366 - Colombo PG",
-            "templates": [
-              "1abril",
-              "2abril",
-              "3abril",
-              "4abril",
-              "5abril",
-              "6abril",
-              "7abril"
-            ]
-          }
+          "8mar",
+          "16out",
+          "20set"
         ],
-        "total_templates": 7
+        "total_templates": 3
       },
       {
         "clinica": "375 - Paranoa #",
@@ -3818,9 +3806,12 @@
           "02jan26",
           "24mar",
           "2fev",
-          "17mar"
+          "17mar",
+          "8mar",
+          "16out",
+          "20set"
         ],
-        "total_templates": 5
+        "total_templates": 8
       },
       {
         "clinica": "Tramandai",
@@ -3836,9 +3827,12 @@
           "10abril",
           "11abril",
           "12abril",
-          "13abril"
+          "13abril",
+          "8mar",
+          "16out",
+          "20set"
         ],
-        "total_templates": 5
+        "total_templates": 8
       },
       {
         "clinica": "TUBARÃO",
