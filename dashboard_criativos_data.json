@@ -1239,6 +1239,201 @@
           }
         ],
         "total_templates": 11
+      },
+      {
+        "clinica": "Mauá",
+        "status": "Not started",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "8mar",
+          "16out",
+          "20set"
+        ],
+        "total_templates": 3
+      },
+      {
+        "clinica": "Lapa",
+        "status": "Not started",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "8mar",
+          "16out",
+          "20set"
+        ],
+        "total_templates": 3
+      },
+      {
+        "clinica": "Governador Valadares",
+        "status": "Not started",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "8mar",
+          "16out",
+          "20set"
+        ],
+        "total_templates": 3
+      },
+      {
+        "clinica": "Olímpia",
+        "status": "Not started",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "8mar",
+          "16out",
+          "20set"
+        ],
+        "total_templates": 3
+      },
+      {
+        "clinica": "Uberlândia",
+        "status": "Not started",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "8mar",
+          "16out",
+          "20set"
+        ],
+        "total_templates": 3
+      },
+      {
+        "clinica": "Campina Grande",
+        "status": "Not started",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "8mar",
+          "16out",
+          "20set"
+        ],
+        "total_templates": 3
+      },
+      {
+        "clinica": "Pirapora",
+        "status": "Not started",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "8mar",
+          "16out",
+          "20set"
+        ],
+        "total_templates": 3
+      },
+      {
+        "clinica": "Santa Bárbara",
+        "status": "Not started",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "8mar",
+          "16out",
+          "20set"
+        ],
+        "total_templates": 3
+      },
+      {
+        "clinica": "Nova Friburgo",
+        "status": "Not started",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "8mar",
+          "16out",
+          "20set"
+        ],
+        "total_templates": 3
+      },
+      {
+        "clinica": "Gama",
+        "status": "Not started",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "8mar",
+          "16out",
+          "20set",
+          "2jan"
+        ],
+        "total_templates": 4
+      },
+      {
+        "clinica": "Marau",
+        "status": "Not started",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "8mar",
+          "16out",
+          "20set",
+          "2jan"
+        ],
+        "total_templates": 4
+      },
+      {
+        "clinica": "Viçosa",
+        "status": "Not started",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "8mar",
+          "16out",
+          "20set",
+          "2jan"
+        ],
+        "total_templates": 4
       }
     ],
     "Giovanni Azzi": [
