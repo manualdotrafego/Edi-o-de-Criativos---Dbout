@@ -1436,545 +1436,6 @@
         "total_templates": 4
       }
     ],
-    "Giovanni Azzi": [
-      {
-        "clinica": "Itajai 2 Dr José Bonifácio",
-        "status": "ON",
-        "consultor": "Genilza Gomes",
-        "ca": "",
-        "valor": "R$2000.00",
-        "meta": "R$ 4,00",
-        "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
-      },
-      {
-        "clinica": "Passos MG",
-        "status": "ON",
-        "consultor": "Victor Coutinho",
-        "ca": "",
-        "valor": "R$1000.00",
-        "meta": "R$ 5,40",
-        "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
-      },
-      {
-        "clinica": "Duque de Caxias RJ",
-        "status": "ON",
-        "consultor": "Nicole Acsa",
-        "ca": "",
-        "valor": "R$1600.00",
-        "meta": "R$ 3,45",
-        "meta_batida": "",
-        "tem_video": true,
-        "videos": [
-          {
-            "cidade": "Duque de Caxias RJ",
-            "templates": [
-              "2fev",
-              "5abril",
-              "6abril"
-            ]
-          }
-        ],
-        "total_templates": 3
-      },
-      {
-        "clinica": "Bagé RS",
-        "status": "ON",
-        "consultor": "Genilza Gomes",
-        "ca": "",
-        "valor": "R$1000.00",
-        "meta": "R$ 4,00",
-        "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
-      },
-      {
-        "clinica": "Braço do Norte",
-        "status": "ON",
-        "consultor": "Genilza Gomes",
-        "ca": "",
-        "valor": "R$1000.00",
-        "meta": "R$ 3,50",
-        "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
-      },
-      {
-        "clinica": "Coife Quixadá",
-        "status": "ON",
-        "consultor": "Genilza Gomes",
-        "ca": "",
-        "valor": "R$1000.00",
-        "meta": "R$ 5,00",
-        "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
-      },
-      {
-        "clinica": "Montes Claros MG",
-        "status": "ON",
-        "consultor": "Genilza Gomes",
-        "ca": "",
-        "valor": "R$4000.00",
-        "meta": "R$ 3,50",
-        "meta_batida": "",
-        "tem_video": true,
-        "videos": [
-          "14mar",
-          "3mar",
-          "21mar",
-          "02jan26",
-          "24mar",
-          "2fev",
-          "17mar"
-        ],
-        "total_templates": 7
-      },
-      {
-        "clinica": "São Caetano do Sul",
-        "status": "ON",
-        "consultor": "Genilza Gomes",
-        "ca": "",
-        "valor": "R$1000.00",
-        "meta": "R$ 3,50",
-        "meta_batida": "",
-        "tem_video": true,
-        "videos": [
-          {
-            "cidade": "São Caetano do Sul",
-            "templates": [
-              "2fev",
-              "5abril",
-              "6abril"
-            ]
-          }
-        ],
-        "total_templates": 3
-      },
-      {
-        "clinica": "Luziania Bellavie",
-        "status": "ON",
-        "consultor": "Genilza Gomes",
-        "ca": "",
-        "valor": "R$1000.00",
-        "meta": "R$ 3,50",
-        "meta_batida": "",
-        "tem_video": true,
-        "videos": [
-          "14mar",
-          "21mar",
-          "02jan26",
-          "24mar",
-          "2fev",
-          "17mar",
-          "9abril",
-          "10abril",
-          "11abril",
-          "12abril",
-          "13abril"
-        ],
-        "total_templates": 11
-      },
-      {
-        "clinica": "Maringá",
-        "status": "ON",
-        "consultor": "Genilza Gomes",
-        "ca": "",
-        "valor": "R$2400.00",
-        "meta": "R$ 35,00",
-        "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
-      },
-      {
-        "clinica": "Sorriso",
-        "status": "ON",
-        "consultor": "Genilza Gomes",
-        "ca": "",
-        "valor": "R$2500.00",
-        "meta": "R$ 4,00",
-        "meta_batida": "",
-        "tem_video": true,
-        "videos": [
-          "21mar",
-          "02jan26",
-          "24mar",
-          "2fev",
-          "17mar"
-        ],
-        "total_templates": 5
-      },
-      {
-        "clinica": "Barbacena",
-        "status": "ON",
-        "consultor": "Victor Coutinho",
-        "ca": "",
-        "valor": "R$1600.00",
-        "meta": "R$ 5,00",
-        "meta_batida": "",
-        "tem_video": true,
-        "videos": [
-          "21mar",
-          "02jan26",
-          "24mar",
-          "2fev",
-          "17mar"
-        ],
-        "total_templates": 5
-      },
-      {
-        "clinica": "Muriaé",
-        "status": "ON",
-        "consultor": "Genilza Gomes",
-        "ca": "",
-        "valor": "R$1050.00",
-        "meta": "R$ 4,00",
-        "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
-      },
-      {
-        "clinica": "Votuporanga",
-        "status": "ON",
-        "consultor": "Victor Coutinho",
-        "ca": "",
-        "valor": "R$2000.00",
-        "meta": "R$ 5,00",
-        "meta_batida": "",
-        "tem_video": true,
-        "videos": [
-          "21mar",
-          "02jan26",
-          "24mar",
-          "2fev",
-          "17mar"
-        ],
-        "total_templates": 5
-      },
-      {
-        "clinica": "ODC VIla Santa Catarina",
-        "status": "ON",
-        "consultor": "Genilza Gomes",
-        "ca": "",
-        "valor": "R$1000.00",
-        "meta": "R$ 35,00",
-        "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
-      },
-      {
-        "clinica": "Sinop",
-        "status": "ON",
-        "consultor": "Genilza Gomes",
-        "ca": "",
-        "valor": "R$2500.00",
-        "meta": "R$ 4,00",
-        "meta_batida": "",
-        "tem_video": true,
-        "videos": [
-          {
-            "cidade": "Sinop",
-            "templates": [
-              "17mar",
-              "1mar",
-              "2fev",
-              "2mar",
-              "3mar"
-            ]
-          },
-          "9abril",
-          "10abril",
-          "11abril",
-          "12abril",
-          "13abril"
-        ],
-        "total_templates": 10
-      },
-      {
-        "clinica": "112 - Limeira",
-        "status": "ON",
-        "consultor": "Victor Coutinho",
-        "ca": "",
-        "valor": "R$1000.00",
-        "meta": "R$ 3,00",
-        "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
-      },
-      {
-        "clinica": "Barreiras BA",
-        "status": "ON",
-        "consultor": "Victor Coutinho",
-        "ca": "",
-        "valor": "R$2000.00",
-        "meta": "R$ 4,00",
-        "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
-      },
-      {
-        "clinica": "Marialva",
-        "status": "ON",
-        "consultor": "Genilza Gomes",
-        "ca": "",
-        "valor": "R$1000.00",
-        "meta": "R$ 5,00",
-        "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
-      },
-      {
-        "clinica": "Ourinhos",
-        "status": "ON",
-        "consultor": "Genilza Gomes",
-        "ca": "",
-        "valor": "R$1500.00",
-        "meta": "R$ 4,00",
-        "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
-      },
-      {
-        "clinica": "Itajai 1",
-        "status": "ON",
-        "consultor": "Genilza Gomes",
-        "ca": "",
-        "valor": "R$2000.00",
-        "meta": "R$ 4,00",
-        "meta_batida": "",
-        "tem_video": true,
-        "videos": [
-          {
-            "cidade": "Itajai 1",
-            "templates": [
-              "2fev",
-              "5abril",
-              "6abril"
-            ]
-          }
-        ],
-        "total_templates": 3
-      },
-      {
-        "clinica": "Hortolândia - (1K ORTO  1K IMP)",
-        "status": "ON",
-        "consultor": "Genilza Gomes",
-        "ca": "",
-        "valor": "R$2000.00",
-        "meta": "R$ 4,60",
-        "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
-      },
-      {
-        "clinica": "Campo bom RS",
-        "status": "ON",
-        "consultor": "Genilza Gomes",
-        "ca": "",
-        "valor": "R$1000.00",
-        "meta": "R$ 6,60",
-        "meta_batida": "",
-        "tem_video": true,
-        "videos": [
-          "3mar",
-          "14teste",
-          "21mar",
-          "02jan26",
-          "24mar",
-          "2fev",
-          "17mar"
-        ],
-        "total_templates": 7
-      },
-      {
-        "clinica": "Ferraz Centro - 1K ORTO  1K PRO)",
-        "status": "ON",
-        "consultor": "Genilza Gomes",
-        "ca": "",
-        "valor": "R$2000.00",
-        "meta": "R$ 5,00",
-        "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
-      },
-      {
-        "clinica": "Caucaia - 800$ Orto 400 implante",
-        "status": "ON",
-        "consultor": "Genilza Gomes",
-        "ca": "",
-        "valor": "R$1200.00",
-        "meta": "R$ 3,00",
-        "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
-      },
-      {
-        "clinica": "Odontoclinic Jundiaí 800 orto e 800 implante",
-        "status": "ON",
-        "consultor": "Genilza Gomes",
-        "ca": "",
-        "valor": "R$1600.00",
-        "meta": "R$ 2,30",
-        "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
-      },
-      {
-        "clinica": "Coife Salvador IAPI",
-        "status": "ON",
-        "consultor": "Genilza Gomes",
-        "ca": "",
-        "valor": "R$1000.00",
-        "meta": "R$ 3,50",
-        "meta_batida": "",
-        "tem_video": true,
-        "videos": [
-          "14mar",
-          "15mar",
-          "16mar",
-          "17mar",
-          "18mar",
-          "19mar",
-          "20mar",
-          "21mar",
-          "22mar",
-          "24mar",
-          "9abril",
-          "10abril",
-          "11abril",
-          "12abril",
-          "13abril"
-        ],
-        "total_templates": 15
-      },
-      {
-        "clinica": "Coife Salvador Fazenda Grande",
-        "status": "ON",
-        "consultor": "Genilza Gomes",
-        "ca": "",
-        "valor": "R$1000.00",
-        "meta": "R$ 3,50",
-        "meta_batida": "",
-        "tem_video": true,
-        "videos": [
-          "14mar",
-          "15mar",
-          "16mar",
-          "17mar",
-          "18mar",
-          "19mar",
-          "20mar",
-          "21mar",
-          "22mar",
-          "24mar",
-          "9abril",
-          "10abril",
-          "11abril",
-          "12abril",
-          "13abril"
-        ],
-        "total_templates": 15
-      },
-      {
-        "clinica": "Afonso Claudio",
-        "status": "ON",
-        "consultor": "Giovani Santos Azzi",
-        "ca": "",
-        "valor": "R$250.00",
-        "meta": "R$ 4,00",
-        "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
-      },
-      {
-        "clinica": "Amor e Saude - Casa Verde",
-        "status": "ON",
-        "consultor": "",
-        "ca": "",
-        "valor": "R$250.00",
-        "meta": "R$ 4,00",
-        "meta_batida": "",
-        "tem_video": false,
-        "videos": [],
-        "total_templates": 0
-      },
-      {
-        "clinica": "Guarulhos",
-        "status": "ON",
-        "consultor": "",
-        "ca": "",
-        "valor": "",
-        "meta": "",
-        "meta_batida": "",
-        "tem_video": true,
-        "videos": [
-          "9abril",
-          "10abril",
-          "11abril",
-          "12abril",
-          "13abril"
-        ],
-        "total_templates": 5
-      },
-      {
-        "clinica": "Barão de Cocais",
-        "status": "ON",
-        "consultor": "",
-        "ca": "",
-        "valor": "",
-        "meta": "",
-        "meta_batida": "",
-        "tem_video": true,
-        "videos": [
-          "9abril",
-          "10abril",
-          "11abril",
-          "12abril",
-          "13abril"
-        ],
-        "total_templates": 5
-      },
-      {
-        "clinica": "ITU",
-        "status": "ON",
-        "consultor": "",
-        "ca": "",
-        "valor": "",
-        "meta": "",
-        "meta_batida": "",
-        "tem_video": true,
-        "videos": [
-          "9abril",
-          "10abril",
-          "11abril",
-          "12abril",
-          "13abril",
-          "17mar",
-          "1mar"
-        ],
-        "total_templates": 7
-      }
-    ],
     "Gustavo Motta": [
       {
         "clinica": "087 - Toledo ⚠ (NADA COM GRATIS)",
@@ -4697,6 +4158,561 @@
           "13abril"
         ],
         "total_templates": 5
+      }
+    ],
+    "Milena Sabaini": [
+      {
+        "clinica": "Itajai 2 Dr José Bonifácio",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$2000.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Passos MG",
+        "status": "ON",
+        "consultor": "Victor Coutinho",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 5,40",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Duque de Caxias RJ",
+        "status": "ON",
+        "consultor": "Nicole Acsa",
+        "ca": "",
+        "valor": "R$1600.00",
+        "meta": "R$ 3,45",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Duque de Caxias RJ",
+            "templates": [
+              "2fev",
+              "5abril",
+              "6abril"
+            ]
+          }
+        ],
+        "total_templates": 3
+      },
+      {
+        "clinica": "Bagé RS",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Braço do Norte",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Coife Quixadá",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Montes Claros MG",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$4000.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "14mar",
+          "3mar",
+          "21mar",
+          "02jan26",
+          "24mar",
+          "2fev",
+          "17mar"
+        ],
+        "total_templates": 7
+      },
+      {
+        "clinica": "São Caetano do Sul",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "São Caetano do Sul",
+            "templates": [
+              "2fev",
+              "5abril",
+              "6abril"
+            ]
+          }
+        ],
+        "total_templates": 3
+      },
+      {
+        "clinica": "Luziania Bellavie",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "14mar",
+          "21mar",
+          "02jan26",
+          "24mar",
+          "2fev",
+          "17mar",
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 11
+      },
+      {
+        "clinica": "Maringá",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$2400.00",
+        "meta": "R$ 35,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Sorriso",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$2500.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "21mar",
+          "02jan26",
+          "24mar",
+          "2fev",
+          "17mar"
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "Barbacena",
+        "status": "ON",
+        "consultor": "Victor Coutinho",
+        "ca": "",
+        "valor": "R$1600.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "21mar",
+          "02jan26",
+          "24mar",
+          "2fev",
+          "17mar"
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "Muriaé",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$1050.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Votuporanga",
+        "status": "ON",
+        "consultor": "Victor Coutinho",
+        "ca": "",
+        "valor": "R$2000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "21mar",
+          "02jan26",
+          "24mar",
+          "2fev",
+          "17mar"
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "ODC VIla Santa Catarina",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 35,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Sinop",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$2500.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Sinop",
+            "templates": [
+              "17mar",
+              "1mar",
+              "2fev",
+              "2mar",
+              "3mar"
+            ]
+          },
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 10
+      },
+      {
+        "clinica": "112 - Limeira",
+        "status": "ON",
+        "consultor": "Victor Coutinho",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Barreiras BA",
+        "status": "ON",
+        "consultor": "Victor Coutinho",
+        "ca": "",
+        "valor": "R$2000.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Marialva",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Ourinhos",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$1500.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Itajai 1",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$2000.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          {
+            "cidade": "Itajai 1",
+            "templates": [
+              "2fev",
+              "5abril",
+              "6abril"
+            ]
+          }
+        ],
+        "total_templates": 3
+      },
+      {
+        "clinica": "Hortolândia - (1K ORTO  1K IMP)",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$2000.00",
+        "meta": "R$ 4,60",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Campo bom RS",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 6,60",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "3mar",
+          "14teste",
+          "21mar",
+          "02jan26",
+          "24mar",
+          "2fev",
+          "17mar"
+        ],
+        "total_templates": 7
+      },
+      {
+        "clinica": "Ferraz Centro - 1K ORTO  1K PRO)",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$2000.00",
+        "meta": "R$ 5,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Caucaia - 800$ Orto 400 implante",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$1200.00",
+        "meta": "R$ 3,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Odontoclinic Jundiaí 800 orto e 800 implante",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$1600.00",
+        "meta": "R$ 2,30",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Coife Salvador IAPI",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "14mar",
+          "15mar",
+          "16mar",
+          "17mar",
+          "18mar",
+          "19mar",
+          "20mar",
+          "21mar",
+          "22mar",
+          "24mar",
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 15
+      },
+      {
+        "clinica": "Coife Salvador Fazenda Grande",
+        "status": "ON",
+        "consultor": "Genilza Gomes",
+        "ca": "",
+        "valor": "R$1000.00",
+        "meta": "R$ 3,50",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "14mar",
+          "15mar",
+          "16mar",
+          "17mar",
+          "18mar",
+          "19mar",
+          "20mar",
+          "21mar",
+          "22mar",
+          "24mar",
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 15
+      },
+      {
+        "clinica": "Afonso Claudio",
+        "status": "ON",
+        "consultor": "Giovani Santos Azzi",
+        "ca": "",
+        "valor": "R$250.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Amor e Saude - Casa Verde",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "R$250.00",
+        "meta": "R$ 4,00",
+        "meta_batida": "",
+        "tem_video": false,
+        "videos": [],
+        "total_templates": 0
+      },
+      {
+        "clinica": "Guarulhos",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "Barão de Cocais",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril"
+        ],
+        "total_templates": 5
+      },
+      {
+        "clinica": "ITU",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "9abril",
+          "10abril",
+          "11abril",
+          "12abril",
+          "13abril",
+          "17mar",
+          "1mar"
+        ],
+        "total_templates": 7
+      },
+      {
+        "clinica": "Barreiras",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "8mar",
+          "16out",
+          "20set"
+        ],
+        "total_templates": 3
       }
     ]
   },
