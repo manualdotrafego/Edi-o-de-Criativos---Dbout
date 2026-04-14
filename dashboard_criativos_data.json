@@ -3417,6 +3417,22 @@
           "20set"
         ],
         "total_templates": 3
+      },
+      {
+        "clinica": "Santa Margarida",
+        "status": "ON",
+        "consultor": "",
+        "ca": "",
+        "valor": "",
+        "meta": "",
+        "meta_batida": "",
+        "tem_video": true,
+        "videos": [
+          "8mar",
+          "16out",
+          "20set"
+        ],
+        "total_templates": 3
       }
     ],
     "Gustavo Bueno": [
